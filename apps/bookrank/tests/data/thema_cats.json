@@ -1,0 +1,32 @@
+{
+    "CodeList": {
+        "CodeListNumber": "214",
+        "CodeListDescription": "Thema Subject Codes",
+        "IssueNumber": "1.4",
+        "VersionNumber": "v1.4.2",
+        "ThemaCodes": {
+            "Code": [
+                {
+                    "CodeValue": "J",
+                    "CodeDescription": "The Arts",
+                    "CodeNotes": "Use all A* codes for: specialist and general adult titles, including both highly illustrated and more text based works. For a hobby or recreational approach, prefer a WF* code as the main subject and supplement with A* code(s) where appropriate. Use all A* codes with: other subject categories and qualifiers as appropriate, in particular STYLE 6*, plus PLACE 1* and TIME PERIOD 3* Qualifiers",
+                    "IssueNumber": "1.0",
+                    "Modified": "1.4"
+                },
+                {
+                    "CodeValue": "JM",
+                    "CodeDescription": "The arts: general issues",
+                    "CodeParent": "A",
+                    "IssueNumber": "1.0"
+                },
+                {
+                    "CodeValue": "JMA",
+                    "CodeDescription": "Theory of art",
+                    "CodeNotes": "See also: QDTN",
+                    "CodeParent": "AB",
+                    "IssueNumber": "1.0"
+                }
+            ]
+        }
+    }
+}

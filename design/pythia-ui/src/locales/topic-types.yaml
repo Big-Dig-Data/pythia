@@ -1,0 +1,17 @@
+en:
+  topic_type:
+    author: Author
+    publisher: Publisher
+    psh: Topic
+    language: Language
+    work-type: Publication type
+    owner: Institution
+
+cs:
+  topic_type:
+    author: Autor
+    publisher: Vydavatel
+    psh: Téma
+    language: Jazyk
+    work-type: Typ publikace
+    owner: Instituce

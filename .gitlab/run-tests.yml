@@ -1,0 +1,34 @@
+tests:run_tests:
+  stage: tests
+  needs: []
+  image: python:3.8
+  services:
+    - postgres:14
+    - redis
+  variables:
+    DJANGO_SETTINGS_MODULE: config.settings.test
+    POSTGRES_DB: pythia
+    POSTGRES_USER: pythia
+    POSTGRES_PASSWORD: pythia
+    POSTGRES_HOST: postgres
+    REDIS_URL: "redis://redis:6379/1"
+    DB_PASSWORD: pythia
+    DB_HOST: postgres
+
+  before_script:
+    - apt-get update -qy
+    - apt-get install -y curl
+    - curl -sSL https://install.python-poetry.org/ | python3
+    - export PATH="${PATH}:/root/.local/bin"
+    - poetry install --no-root
+
+  script:
+    - cp .env.ci .env
+    - poetry run pytest -v --create-db --junitxml=report.xml --cov=aleph --cov=bookrank --cov=candidates --cov=core --cov=hits --cov=psh --cov=importers --cov=source_data --cov-report=xml --cov-report=term apps/
+  artifacts:
+    reports:
+      junit: report.xml
+      coverage_report:
+        coverage_format: cobertura
+        path: coverage.xml
+  coverage: /^TOTAL.*\s+([^\s]+)%$/

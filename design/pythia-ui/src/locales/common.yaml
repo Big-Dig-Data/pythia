@@ -1,0 +1,103 @@
+en:
+  table:
+    row_counter: Rows {pageStart} - {pageStop} from {itemsLength}
+    rows_per_page: Rows per page
+  pages:
+    recomm: Recommendations
+    topic_recomm: Topic recommendations
+    publisher_recomm: Publisher recommendations
+    author_recomm: Author recommendations
+    new_works: New works
+    stats: Statistics
+    work_stats: Fund statistics
+    hit_stats: Hit statistics
+    content: Content
+    works: Works
+    authors: Authors
+    settings: Settings
+    psh_tree: PSH tree
+    publishers: Publishers
+    languages: Languages
+    topics: Topics
+    work_types: Work types
+    owner: Institutions
+    candidates: Candidates
+    thema: Thema categories
+    psh: PSH categories
+    konspekt: Conspectus categories
+    acquisitions: Acquisitions
+  menu: Menu
+  search: Search
+  labels:
+    date_range: Date range
+  date_range:
+    all_available: All available
+    last_12_mo: Last 12 months
+    custom: Custom
+    previous_year: Previous year
+  columns:
+    score: Score
+    work_count: Work count
+    title: Title
+    lang: Language
+    agent: Agent
+    price: Price
+    abstract: Abstract
+    publisher: Publisher
+    actions: Actions
+    absolute_growth: Growth
+    relative_growth: Growth
+    new_works_acquisition_score: Growth
+    publication_year: Publication year
+
+cs:
+  table:
+    row_counter: Řádky {pageStart} - {pageStop} z {itemsLength}
+    rows_per_page: Řádků na stránku
+  pages:
+    recomm: Doporučení
+    topic_recomm: Doporučená témata
+    publisher_recomm: Doporučení vydavatelé
+    author_recomm: Doporučení autoři
+    new_works: Nová díla
+    stats: Statistika
+    work_stats: Statistika fondu
+    hit_stats: Statistika zájmu
+    content: Obsah
+    works: Díla
+    authors: Autoři
+    settings: Nastavení
+    psh_tree: Strom PSH
+    publishers: Vydavatelé
+    languages: Jazyky
+    topics: Témata
+    work_types: Typy děl
+    owner: Instituce
+    candidates: Kandidáti
+    thema: Témata - Thema
+    psh: Témata - PSH
+    konspekt: Témata - Konspekt
+    acquisitions: Akvizice
+  menu: Menu
+  search: Hledání
+  labels:
+    date_range: Rozmezí dat
+  date_range:
+    all_available: Vše dostupné
+    last_12_mo: Posledních 12 měsíců
+    custom: Vlastní
+    previous_year: Předchozí kalendářní rok
+  columns:
+    score: Skóre
+    work_count: Počet děl
+    title: Název
+    lang: Jazyk
+    publisher: Vydavatel
+    agent: Agent
+    price: Cena
+    abstract: Abstrakt
+    actions: Akce
+    absolute_growth: Růst
+    relative_growth: Růst
+    new_works_acquisition_score: Růst
+    publication_year: Rok vydání

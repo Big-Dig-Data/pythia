@@ -1,0 +1,4168 @@
+{
+  "CodeList": {
+    "CodeListNumber": "214",
+    "CodeListDescription": "Thema Subject Codes",
+    "IssueNumber": "1.4",
+    "VersionNumber": "v1.4.2",
+    "ThemaCodes": {
+      "Code": [
+        {
+          "CodeValue": "J",
+          "CodeDescription": "Society and Social Sciences",
+          "CodeNotes": "Use all J* codes for: specialist and some general adult titles, but see also V* codes for practical approaches to many topics. Use all J* codes with: other subject categories and qualifiers where appropriate. In J* use the most appropriate code(s) available, as many social sciences are broad topics that can have many alternative terms or names",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JB",
+          "CodeDescription": "Society and culture: general",
+          "CodeNotes": "Use all JB* codes for: both general and academic works on social topics. Use with: JH* codes for sociology textbooks and other specialist works as appropriate, See also: VFV*",
+          "CodeParent": "J",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBC",
+          "CodeDescription": "Cultural and media studies",
+          "CodeParent": "JB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBCC",
+          "CodeDescription": "Cultural studies",
+          "CodeNotes": "Class here: intercultural studies, studies of cultural identity, general studies of cultural heritage, contemporary culture in society. Use with: PLACE 1*, LANGUAGE 2* or 5P* INTEREST Qualifiers to indicate the cultural studies of a particular region(s) or country / countries, language grouping or groups of people",
+          "CodeParent": "JBC",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBCC1",
+          "CodeDescription": "Popular culture",
+          "CodeParent": "JBCC",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBCC2",
+          "CodeDescription": "Material culture",
+          "CodeNotes": "Use for: the interdisciplinary field telling of relationships between people and their things, the role of artefacts and objects in society, the making, history, preservation, and interpretation of objects",
+          "CodeParent": "JBCC",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JBCC3",
+          "CodeDescription": "Cultural studies: fashion and society",
+          "CodeNotes": "Class here: ideas of beauty or body image in culture, fashions in different cultures or societies. Use with: NHTB for an historical approach or AKT* codes as appropriate",
+          "CodeParent": "JBCC",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBCC4",
+          "CodeDescription": "Cultural studies: food and society",
+          "CodeNotes": "Use for: works that examine the traditions, habits, customs, rituals, ceremonies, taboos linked to food and drink in different cultures, food or drink as intangible cultural heritage. Use with: NHTB for an historical approach and with WB* codes as appropriate",
+          "CodeParent": "JBCC",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBCC6",
+          "CodeDescription": "Cultural studies: customs and traditions",
+          "CodeNotes": "Class here: studies of traditional rituals and ceremonies; cultural taboos or superstitions, social behaviour, values and norms as defined by society, institutions, traditions and cultural beliefs, See also: JBGB",
+          "CodeParent": "JBCC",
+          "IssueNumber": "1.2",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBCC7",
+          "CodeDescription": "Cross-cultural studies and topics",
+          "CodeNotes": "Class here: cross-cultural encounters, cross-cultural exchanges, cultural clashes. Use for: works that examine social and cultural topics and issues around the meeting of different of cultures, including conflicts, negative or positive exchanges, on a personal or a societal level. Use with: NH* codes for historical topics",
+          "CodeParent": "JBCC",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JBCC8",
+          "CodeDescription": "Cultural policies and debates",
+          "CodeNotes": "Use for: works about current debates, policies, ideas, controversies around the role of culture or cultural heritage in society",
+          "CodeParent": "JBCC",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JBCC9",
+          "CodeDescription": "History of ideas",
+          "CodeNotes": "Use for: works that look at the expression, preservation, and change of human ideas over time. Use with: other J* or NH* or QD* codes as appropriate",
+          "CodeParent": "JBCC",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBCT",
+          "CodeDescription": "Media studies",
+          "CodeNotes": "See also: GTC",
+          "CodeParent": "JBC",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBCT1",
+          "CodeDescription": "Media studies: internet, digital media and society",
+          "CodeNotes": "Use for: all aspects of online, digital and social media and their role or impact in society, including things such as blogging, tweeting, influencers, spread of real and false information, changing habits and behaviour linked to digital media, See also: ATN",
+          "CodeParent": "JBCT",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBCT2",
+          "CodeDescription": "Media studies: TV and society",
+          "CodeNotes": "Use for: works on both traditional and new forms of consuming small screen entertainment, including streaming and on demand services, impacts and influences on culture, links to popular culture, etc",
+          "CodeParent": "JBCT",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBCT3",
+          "CodeDescription": "Media studies: advertising and society",
+          "CodeParent": "JBCT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBCT4",
+          "CodeDescription": "Media studies: journalism",
+          "CodeNotes": "See also: KNTP",
+          "CodeParent": "JBCT",
+          "IssueNumber": "1.2"
+        },
+        {
+          "CodeValue": "JBCT5",
+          "CodeDescription": "Disinformation and misinformation",
+          "CodeNotes": "Class here: propaganda, ‘fake news’. Use for: the purposeful use of false or misleading information, manipulation of thoughts and actions by use of information, the spread of misleading or non-fact based information. Use with: JBCT1 for works about the role of digital platforms",
+          "CodeParent": "JBCT",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JBF",
+          "CodeDescription": "Social and ethical issues",
+          "CodeNotes": "See also: PDR QDTQ RNT",
+          "CodeParent": "JB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBFA",
+          "CodeDescription": "Social discrimination and equal treatment",
+          "CodeNotes": "Use for: works about various forms of discrimination, about equality or inequality, about prejudice based on a person’s identity and also about measures to address these issues, such as diversity and inclusion policies, positive discrimination, work on unconscious bias. Use with: other JB* categories, or other subject codes and Qualifiers to denote specific forms of discrimination, e.g. with JBSF* codes for sexism or discrimination based on gender, QRAM9 plus 5PG* codes for discrimination based on religion, JBSJ plus 5PS* codes for discrimination based on sexual orientation etc",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFA1",
+          "CodeDescription": "Racism and racial discrimination",
+          "CodeNotes": "Class here: institutional racism, xenophobia. Use for: works about discrimination and prejudice based on skin colour, race or ethnic origin, or prejudices based on the perception that someone is foreign or from outside the community, and issues of inequality and discrimination, as well as measures to address racism",
+          "CodeParent": "JBFA",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JBFB",
+          "CodeDescription": "Social Integration and assimilation",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JBFC",
+          "CodeDescription": "Poverty and precarity",
+          "CodeNotes": "Use for: works about food poverty, food banks, unemployment or employment when linked to poverty, the precariat, economic insecurity, underemployment, chaotic lifestyles, malnutrition linked to poverty, in-work poverty, the working poor etc",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFD",
+          "CodeDescription": "Housing and homelessness",
+          "CodeNotes": "Class here: the unhoused, issues around providing houses, cost of homes, lack of accommodation etc",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFF",
+          "CodeDescription": "Social impact of disasters",
+          "CodeNotes": "Class here: diseases, famine, malnutrition, forced movement of peoples as a result of disasters etc. Use with: other subject codes as appropriate, See also: RNR",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFG",
+          "CodeDescription": "Refugees and political asylum",
+          "CodeNotes": "Class here: asylum seekers, sanctuary. Use with: other codes for specific topics, such as JBFA for discrimination, JBFD for housing topics, NHTB for social history, FX for novels, etc",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFG1",
+          "CodeDescription": "Aiding escape and evasion",
+          "CodeNotes": "Class here: the Underground Railroad, the Comet Line, Fluchthilfe, etc. Use for: titles about helping refugees escape repression, slavery, conflicts etc. Use with: NH* codes and PLACE 1* and TIME PERIOD 3* Qualifiers as appropriate",
+          "CodeParent": "JBFG",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JBFH",
+          "CodeDescription": "Migration, immigration and emigration",
+          "CodeNotes": "Use for: works about diasporas, expatriates, settlers or the migrants themselves, or cultural or social topics linked to migration. Use with: other codes for specific topics, such as JBFA for discrimination, JBFD for housing topics, NHTB for social history, FX for novels etc",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFJ",
+          "CodeDescription": "Human trafficking",
+          "CodeNotes": "Class here: forced labour, forced marriage, sexual slavery, modern-day slavery, forced prostitution, child labour, See also: NHTS",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JBFK",
+          "CodeDescription": "Violence and abuse in society",
+          "CodeNotes": "Class here: ill-treatment, maltreatment or wilful neglect in society, violence based on cultural traditions, violence against particular groups or individuals, institutional violence, violent criminal behaviour in society etc. Use for: works about perceptions of violence and insecurity in society, as well as works on actual violence, abuse and neglect, See also: JKV",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFK1",
+          "CodeDescription": "Child abuse",
+          "CodeNotes": "Class here: child neglect",
+          "CodeParent": "JBFK",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFK2",
+          "CodeDescription": "Sexual abuse and harassment",
+          "CodeNotes": "Class here: sexual violence, rape, sexual assault, See also: JKVN",
+          "CodeParent": "JBFK",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JBFK3",
+          "CodeDescription": "Domestic abuse",
+          "CodeNotes": "Class here: domestic violence, family violence, intimate partner violence, coercive control, gaslighting, master suppression techniques and countermeasures",
+          "CodeParent": "JBFK",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFK4",
+          "CodeDescription": "Bullying and harassment",
+          "CodeNotes": "Class here: mobbing, social media trolling, cyberbullying, intimidation, coercion, mobbing, stalking and threatening behaviour. Use with: JBCT* codes when linked to different kinds of media, KNXC or KJMV2 for workplace harassment",
+          "CodeParent": "JBFK",
+          "IssueNumber": "1.3",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFL",
+          "CodeDescription": "Control, privacy and safety in society",
+          "CodeNotes": "Use for: issues and debates around privacy, use of data, the role of government and big corporations, security, anti-terrorism, rights of the individual versus the rights of society, surveillance, public safety, social control and coercion, See also: JPV",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JBFM",
+          "CodeDescription": "Disability: social aspects",
+          "CodeNotes": "Use for: works that look at societal barriers to a person with impairments, the way societies treat disabled persons, the impact of policies, etc. Use with: 5PM* Qualifiers as appropriate and other codes for specific topics, such as JBFA for discrimination, JBFD for housing topics, JKS* for welfare, NHTB for social history, FX for novels etc",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFN",
+          "CodeDescription": "Health, illness and addiction: social aspects",
+          "CodeNotes": "Use for: studies of the social or cultural impact of health policies or different illnesses or addictions; social or cultural behaviour or reactions to different types of addictions, illnesses or health scares. Use with: MBP to indicate social aspects of health systems",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFN2",
+          "CodeDescription": "Drugs and alcohol: social aspects",
+          "CodeNotes": "Class here: drug or alcohol addiction, opioid addiction, substance abuse. Use for: works about impact of drugs and alcohol addiction or abuse on society, groups or individuals, intervention strategies, public policies etc",
+          "CodeParent": "JBFN",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JBFQ",
+          "CodeDescription": "Social mobility",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBFS",
+          "CodeDescription": "Consumerism",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBFU",
+          "CodeDescription": "Animals and society",
+          "CodeNotes": "Class here: animal rights, vivisection, hunting, animal welfare, the use of animals for food, as resources, as commodities, human impact on animal world, trade in animals etc, treated as issues",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFV",
+          "CodeDescription": "Ethical issues and debates",
+          "CodeNotes": "Use with: other categories to indicate works that treat a subject as an ethical debate, See also: PSAD QDTQ",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFV1",
+          "CodeDescription": "Ethical issues: abortion and birth control",
+          "CodeParent": "JBFV",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "JBFV2",
+          "CodeDescription": "Ethical issues: capital punishment",
+          "CodeNotes": "Class here: the death penalty",
+          "CodeParent": "JBFV",
+          "IssueNumber": "1.1",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFV3",
+          "CodeDescription": "Ethical issues: censorship",
+          "CodeNotes": "Class here: debates around freedom of speech, censorship vs security, etc",
+          "CodeParent": "JBFV",
+          "IssueNumber": "1.1",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFV4",
+          "CodeDescription": "Ethical issues: euthanasia and right to die",
+          "CodeNotes": "Class here: assisted suicide, assisted death. Use with: LNT for legal aspects",
+          "CodeParent": "JBFV",
+          "IssueNumber": "1.1",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFV5",
+          "CodeDescription": "Ethical issues: scientific, technological and medical developments",
+          "CodeParent": "JBFV",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "JBFW",
+          "CodeDescription": "Sex and sexuality, social aspects",
+          "CodeNotes": "Use for: general interest works on sex and society, pornography and the sex industry, sex work and prostitution, See also: JMU VFVC",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JBFX",
+          "CodeDescription": "Social attitudes",
+          "CodeNotes": "Class here: political correctness. Use for: general works about social, political and moral attitudes in societies. Use with: other categories for attitudes towards particular subjects or groups",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBFZ",
+          "CodeDescription": "Social forecasting, future studies",
+          "CodeParent": "JBF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBG",
+          "CodeDescription": "Popular beliefs and controversial knowledge",
+          "CodeParent": "JB",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "JBGB",
+          "CodeDescription": "Folklore, myths and legends",
+          "CodeNotes": "Use for: non-fiction studies of traditional stories or material, verbal or customary folklore; studies of urban and contemporary myths and legends; studies of the origins of myths, fairy tales, tall-stories, paranormal tales, supernatural beings, Old wives’ tales, popular superstitions etc; specialist works about the origin of the stories of Atlantis, the Holy Grail, the Hidden Folk, the Bermuda Triangle, the Green Man etc. Prefer: QR* codes for the spiritual or religious aspects of mythology or VX* codes for more popular approaches or FN* codes for the stories themselves, See also: FN QRS* VXQM*",
+          "CodeParent": "JBG",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBGX",
+          "CodeDescription": "Conspiracy theories",
+          "CodeNotes": "Class here: hoaxes, cover ups etc",
+          "CodeParent": "JBG",
+          "IssueNumber": "1.2",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JBS",
+          "CodeDescription": "Social groups and identities",
+          "CodeNotes": "Use all JBS* codes with: other codes for specific topics, such as JBFA for discrimination, NHTB for social history, FX* for novels and INTEREST 5* Qualifiers as appropriate",
+          "CodeParent": "JB",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSA",
+          "CodeDescription": "Social classes",
+          "CodeNotes": "Class here: class conflict, social stratification, socio-economic groups. Use for: works that examine class, a particular class, characteristics and distinctions of that class, interaction between different strata of society, perceptions and prejudices about particular classes",
+          "CodeParent": "JBS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSC",
+          "CodeDescription": "Rural communities",
+          "CodeNotes": "Class here: small settlements in rural areas, people living in the countryside, semi-rural areas, isolated communities",
+          "CodeParent": "JBS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSD",
+          "CodeDescription": "Urban communities",
+          "CodeNotes": "Class here: inner cities, suburbs, city and town dwellers, suburban communities. Use for: any works on urban or semi-urban settings",
+          "CodeParent": "JBS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSF",
+          "CodeDescription": "Gender studies, gender groups",
+          "CodeNotes": "Use for: works that examine social roles based on the sex of the person (gender role) or personal identification of one’s own gender based on an internal awareness (gender identity), as well as works that look at sex (based on the anatomy of an individual’s reproductive system, and secondary sex characteristics), including intersex people",
+          "CodeParent": "JBS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSF1",
+          "CodeDescription": "Gender studies: women and girls",
+          "CodeNotes": "Class here: Women’s studies. Use with: other subject codes when a work is primarily about women or girls. Use with: JBFA for discrimination based on gender or sexism, NHTB for women’s history, etc",
+          "CodeParent": "JBSF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSF11",
+          "CodeDescription": "Feminism and feminist theory",
+          "CodeParent": "JBSF1",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBSF2",
+          "CodeDescription": "Gender studies: men and boys",
+          "CodeNotes": "Class here: Men’s studies, topics around masculinity. Use with: other subject codes when a work is primarily about men or boys",
+          "CodeParent": "JBSF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSF3",
+          "CodeDescription": "Gender studies: ‘trans’, transgender people and gender variance",
+          "CodeNotes": "Class here: transsexual, transgender, gender non-conforming, non-binary, genderqueer, gender minority, two spirit, third gender etc. Use for: works that look at those whose gender is different (wholly or partially) from that assigned to them at birth, or gender variance in cultures who have established more than two genders. Use with: JBFA for issues around discrimination and transphobia",
+          "CodeParent": "JBSF",
+          "IssueNumber": "1.2",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSJ",
+          "CodeDescription": "LGBTQ+ / Gay and Lesbian Studies",
+          "CodeNotes": "Class here: queer studies, sexual diversity studies. Use for: studies of sexuality, sexual orientation and associated identity-based groups or cultures. Use with: other codes for specific topics, e.g. JBFA for homophobia or issues around discrimination or NHTB for LGBTQ+ history and 5PS* values from INTEREST 5* Qualifiers, as appropriate, See also: JBSF3",
+          "CodeParent": "JBS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSL",
+          "CodeDescription": "Ethnic studies",
+          "CodeNotes": "Use with: other subject codes for interdisciplinary studies and PLACE 1* and 5PB* values from INTEREST 5* Qualifiers, as appropriate",
+          "CodeParent": "JBS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSL1",
+          "CodeDescription": "Ethnic groups and multicultural studies",
+          "CodeNotes": "Class here: race relations, ethnic minorities, multiculturalism. Use for: works on social and cultural topics linked to multicultural societies, See also: JBFA",
+          "CodeParent": "JBSL",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSL11",
+          "CodeDescription": "Indigenous peoples",
+          "CodeParent": "JBSL1",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBSL13",
+          "CodeDescription": "Mixed heritage / mixed race groups or people",
+          "CodeParent": "JBSL1",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JBSP",
+          "CodeDescription": "Age groups and generations",
+          "CodeNotes": "Use for: works that look at different generations, or topics, issues, problems for different generations or generational misunderstandings or conflicts, intergenerational topics, etc",
+          "CodeParent": "JBS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSP1",
+          "CodeDescription": "Age groups: children",
+          "CodeParent": "JBSP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBSP2",
+          "CodeDescription": "Age groups: adolescents",
+          "CodeParent": "JBSP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBSP3",
+          "CodeDescription": "Age groups: adults",
+          "CodeParent": "JBSP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBSP4",
+          "CodeDescription": "Age groups: the elderly",
+          "CodeParent": "JBSP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBSR",
+          "CodeDescription": "Social groups: religious groups and communities",
+          "CodeNotes": "Use with: 5PG* values from INTEREST 5* Qualifiers and QR* codes as appropriate",
+          "CodeParent": "JBS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBSW",
+          "CodeDescription": "Social groups: alternative lifestyles",
+          "CodeNotes": "Use for: lifestyles that are diverse in regards to the mainstream or perceived to be outside the cultural norms",
+          "CodeParent": "JBS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JBSX",
+          "CodeDescription": "Secret societies",
+          "CodeNotes": "Class here: freemasonry, See also: QRY* FHQ",
+          "CodeParent": "JBS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JBSY",
+          "CodeDescription": "Social groups: clubs and societies",
+          "CodeNotes": "Class here: voluntary association or ‘elective affinities’, how and why people join and associate themselves with specific groups",
+          "CodeParent": "JBS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JH",
+          "CodeDescription": "Sociology and anthropology",
+          "CodeNotes": "Use all JH* codes for: textbooks or academic and specialist works. Use with: other J* codes indicating specific topics where appropriate",
+          "CodeParent": "J",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JHB",
+          "CodeDescription": "Sociology",
+          "CodeNotes": "See also: LAQ MBS",
+          "CodeParent": "JH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JHBA",
+          "CodeDescription": "Social theory",
+          "CodeParent": "JHB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JHBC",
+          "CodeDescription": "Social research and statistics",
+          "CodeNotes": "See also: GPS",
+          "CodeParent": "JHB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JHBD",
+          "CodeDescription": "Population and demography",
+          "CodeParent": "JHB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JHBK",
+          "CodeDescription": "Sociology: family and relationships",
+          "CodeNotes": "Use for: works about family structures, relationships within families, social networks, peer-groups, friendships, sociology of physical and emotional relationships with other people, social control or conformity within groups or families, etc, See also: JBFW VFV*",
+          "CodeParent": "JHB",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JHBL",
+          "CodeDescription": "Sociology: work and labour",
+          "CodeNotes": "Class here: sociology of employment / unemployment",
+          "CodeParent": "JHB",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JHBS",
+          "CodeDescription": "Sociology: sport and leisure",
+          "CodeParent": "JHB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JHBZ",
+          "CodeDescription": "Sociology: death and dying",
+          "CodeNotes": "See also: VFJX",
+          "CodeParent": "JHB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JHM",
+          "CodeDescription": "Anthropology",
+          "CodeParent": "JH",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "JHMC",
+          "CodeDescription": "Social and cultural anthropology",
+          "CodeNotes": "Class here: ethnography, kinship and family, Institutional anthropology, sociocultural anthropology. Use with: other J* codes for different specialities in anthropology, See also: JBCC*",
+          "CodeParent": "JHM",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JK",
+          "CodeDescription": "Social services and welfare, criminology",
+          "CodeParent": "J",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKS",
+          "CodeDescription": "Social welfare and social services",
+          "CodeParent": "JK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKSB",
+          "CodeDescription": "Welfare and benefit systems",
+          "CodeParent": "JKS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKSB1",
+          "CodeDescription": "Child welfare and youth services",
+          "CodeNotes": "Class here: child protection and safeguarding, social work services aimed at support of vulnerable/under-privileged youths in society, See also: LNMK",
+          "CodeParent": "JKSB",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JKSF",
+          "CodeDescription": "Adoption and fostering",
+          "CodeParent": "JKS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKSG",
+          "CodeDescription": "Care of the elderly",
+          "CodeNotes": "Class here: elder abuse, maltreatment and neglect, institutions for the care of older people. Use for: social care aspect, community and government policies and associated professions or roles",
+          "CodeParent": "JKS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JKSL",
+          "CodeDescription": "Care of people with specific needs",
+          "CodeNotes": "Class here: care of people with visible or hidden disabilities, people with physical and sensory impairments, care of neurodivergent persons with additional needs. Use for: social care aspect, community and government policies and associated professions or roles. Use with: 5PM* qualifiers as appropriate",
+          "CodeParent": "JKS",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JKSM",
+          "CodeDescription": "Care of people with mental health issues",
+          "CodeNotes": "Use for: social care aspect, community and government policies and associated professions or roles. Use with: 5PM* qualifiers as appropriate, See also: MBPK VFJQ",
+          "CodeParent": "JKS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JKSN",
+          "CodeDescription": "Social work",
+          "CodeParent": "JKS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKSN1",
+          "CodeDescription": "Charities, voluntary services and philanthropy",
+          "CodeParent": "JKSN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKSN2",
+          "CodeDescription": "Social counselling and advice services",
+          "CodeParent": "JKSN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKSR",
+          "CodeDescription": "Aid and relief programmes",
+          "CodeNotes": "Class here: works on international and foreign aid or assistance, humanitarian aid, disaster relief. Use for: domestic and international programmes, either short term or long term aid programmes, relief initiatives etc",
+          "CodeParent": "JKS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JKSW",
+          "CodeDescription": "Emergency services",
+          "CodeParent": "JKS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKSW1",
+          "CodeDescription": "Police and security services",
+          "CodeParent": "JKSW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKSW2",
+          "CodeDescription": "Fire services",
+          "CodeParent": "JKSW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKSW3",
+          "CodeDescription": "Ambulance and rescue services",
+          "CodeNotes": "Use for: non-medical works about paramedical and equivalent emergency services, See also: MQF",
+          "CodeParent": "JKSW",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JKV",
+          "CodeDescription": "Crime and criminology",
+          "CodeNotes": "See also: DNXC",
+          "CodeParent": "JK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKVC",
+          "CodeDescription": "Causes and prevention of crime",
+          "CodeNotes": "Class here: surveillance, anti-terrorism measures, protection of the public from crime, policies around prevention and causes of crime, Social control theory",
+          "CodeParent": "JKV",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JKVF",
+          "CodeDescription": "Criminal investigation and detection",
+          "CodeParent": "JKV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKVF1",
+          "CodeDescription": "Forensic science",
+          "CodeNotes": "See also: JMK MKT",
+          "CodeParent": "JKVF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKVG",
+          "CodeDescription": "Drugs trade / drug trafficking",
+          "CodeParent": "JKV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKVJ",
+          "CodeDescription": "Street crime",
+          "CodeNotes": "Class here: mugging, pickpocketing, vandalism, knife crime, gun crime",
+          "CodeParent": "JKV",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JKVK",
+          "CodeDescription": "Corporate crime / white-collar crime",
+          "CodeNotes": "Class here: financial crimes, fraud, scams, embezzlement, bribery and corruption etc",
+          "CodeParent": "JKV",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JKVM",
+          "CodeDescription": "Organized crime",
+          "CodeNotes": "Class here: criminal gangs, mafia, banditry, piracy",
+          "CodeParent": "JKV",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JKVN",
+          "CodeDescription": "Violent crimes",
+          "CodeNotes": "Class here: murder, unlawful killings, kidnapping, torture, assault, honour crimes, rape and crimes of sexual violence, etc. Use for: works that examine different aspects of different types of violent crime. Use with: DNXC* codes for journalistic style accounts of actual violent crimes",
+          "CodeParent": "JKV",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JKVP",
+          "CodeDescription": "Penology and punishment",
+          "CodeNotes": "Class here: prisons, penitentiaries, penal systems and theories, See also: JWXR",
+          "CodeParent": "JKV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKVQ",
+          "CodeDescription": "Offenders",
+          "CodeParent": "JKV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKVQ1",
+          "CodeDescription": "Rehabilitation of offenders",
+          "CodeParent": "JKVQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKVQ2",
+          "CodeDescription": "Juvenile offenders",
+          "CodeNotes": "Class here: juvenile delinquency",
+          "CodeParent": "JKVQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKVS",
+          "CodeDescription": "Probation services",
+          "CodeParent": "JKV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JKVV",
+          "CodeDescription": "Victimology and victims of crime",
+          "CodeNotes": "Class here: victim’s rights, See also: DNXR",
+          "CodeParent": "JKV",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JM",
+          "CodeDescription": "Psychology",
+          "CodeNotes": "Use all JM* codes for: academic, specialist and professional level works. Prefer: VS* codes for practical advice for the general reader, See also: VSP*",
+          "CodeParent": "J",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMA",
+          "CodeDescription": "Psychological theory, systems, schools and viewpoints",
+          "CodeNotes": "See also: QDTM",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "JMAF",
+          "CodeDescription": "Psychoanalytical and Freudian psychology",
+          "CodeNotes": "Class here: psychoanalysis",
+          "CodeParent": "JMA",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "JMAF1",
+          "CodeDescription": "Lacanian psychoanalysis",
+          "CodeParent": "JMAF",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JMAJ",
+          "CodeDescription": "Analytical and Jungian psychology",
+          "CodeParent": "JMA",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMAL",
+          "CodeDescription": "Behaviourism, Behavioural theory",
+          "CodeParent": "JMA",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "JMAN",
+          "CodeDescription": "Humanistic psychology",
+          "CodeParent": "JMA",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMAP",
+          "CodeDescription": "Positive psychology",
+          "CodeParent": "JMA",
+          "IssueNumber": "1.2"
+        },
+        {
+          "CodeValue": "JMAQ",
+          "CodeDescription": "Cognitivism, cognitive theory",
+          "CodeParent": "JMA",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMB",
+          "CodeDescription": "Psychological methodology",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMBT",
+          "CodeDescription": "Psychological testing and measurement",
+          "CodeNotes": "Class here: psychometrics",
+          "CodeParent": "JMB",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JMC",
+          "CodeDescription": "Child, developmental and lifespan psychology",
+          "CodeNotes": "See also: JNC",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMD",
+          "CodeDescription": "Psychology of ageing",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMF",
+          "CodeDescription": "Family psychology",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMG",
+          "CodeDescription": "Psychology of gender",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMH",
+          "CodeDescription": "Social, group or collective psychology",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMHC",
+          "CodeDescription": "Interpersonal communication and skills",
+          "CodeNotes": "Class here: psychology of communication, both verbal and non-verbal, See also: GTC",
+          "CodeParent": "JMH",
+          "IssueNumber": "1.3",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JMJ",
+          "CodeDescription": "Occupational and industrial psychology",
+          "CodeNotes": "See also: SCGP",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMK",
+          "CodeDescription": "Criminal or forensic psychology",
+          "CodeNotes": "See also: JKV*",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JML",
+          "CodeDescription": "Experimental psychology",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMM",
+          "CodeDescription": "Physiological and neuro-psychology, biopsychology",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMP",
+          "CodeDescription": "Abnormal psychology",
+          "CodeNotes": "See also: MKM*",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMQ",
+          "CodeDescription": "Psychology: emotions",
+          "CodeNotes": "Class here: affective neuroscience",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JMR",
+          "CodeDescription": "Cognition and cognitive psychology",
+          "CodeNotes": "Class here: Cognitive neuroscience, psychological works on learning, memory and memory loss, intelligence, reasoning, perception",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JMS",
+          "CodeDescription": "Psychology: the self, ego, identity, personality",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMT",
+          "CodeDescription": "Psychology: states of consciousness",
+          "CodeNotes": "Class here: psychological works on conscious and unconscious mind; sleep and dreams; altered states of mind, hypnosis, drug-induced, etc, See also: VXN",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMU",
+          "CodeDescription": "Psychology: sexual behaviour",
+          "CodeNotes": "See also: VFVC JBFW",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JMX",
+          "CodeDescription": "Parapsychological studies",
+          "CodeNotes": "Use for: serious academic works, See also: VXP",
+          "CodeParent": "JM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JN",
+          "CodeDescription": "Education",
+          "CodeNotes": "Use all JN* codes for: works about education as a practice or subject, but use YP* codes for schoolbooks or educational material for pupils in pre-tertiary education",
+          "CodeParent": "J",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNA",
+          "CodeDescription": "Philosophy and theory of education",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0",
+          "Modified": "1.1"
+        },
+        {
+          "CodeValue": "JNAM",
+          "CodeDescription": "Moral and social purpose of education",
+          "CodeNotes": "Use for: works supporting the theories behind education focussed particularly on themes connected to society and behaviour in it",
+          "CodeParent": "JNA",
+          "IssueNumber": "1.1",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "JNB",
+          "CodeDescription": "History of education",
+          "CodeNotes": "Class here: history of specific schools, colleges, as well as general history",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNC",
+          "CodeDescription": "Educational psychology",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JND",
+          "CodeDescription": "Educational systems and structures",
+          "CodeNotes": "Class here: issues of selection, admissions, inspection, governance etc. Use with: PLACE 1* Qualifiers for comparisons between different education systems",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNDG",
+          "CodeDescription": "Curriculum planning and development",
+          "CodeParent": "JND",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNDH",
+          "CodeDescription": "Education: examinations and assessment",
+          "CodeParent": "JND",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNE",
+          "CodeDescription": "Social pedagogy",
+          "CodeNotes": "Use for: works about social pedagogy as a field of study",
+          "CodeParent": "JN",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JNF",
+          "CodeDescription": "Educational strategies and policy",
+          "CodeNotes": "Class here: teaching strategies for literacy, numeracy etc; policies regarding streaming etc",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "JNFC",
+          "CodeDescription": "Counselling and care of students",
+          "CodeNotes": "Class here: pastoral care, student welfare issues, absence, truancy, discipline, safety in educational establishments, child protection in schools etc",
+          "CodeParent": "JNF",
+          "IssueNumber": "1.2",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNFK",
+          "CodeDescription": "Educational strategies and policy: inclusion",
+          "CodeNotes": "Use for: both formulating policy and practical applications",
+          "CodeParent": "JNF",
+          "IssueNumber": "1.2",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JNG",
+          "CodeDescription": "Early childhood care and education",
+          "CodeNotes": "Use for: works aimed at professionals dealing with childcare or general works on subject, See also: JNLA",
+          "CodeParent": "JN",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JNH",
+          "CodeDescription": "Home schooling",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNK",
+          "CodeDescription": "Educational administration and organization",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JNKG",
+          "CodeDescription": "Funding of education and student finance",
+          "CodeParent": "JNK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNKH",
+          "CodeDescription": "Teaching staff",
+          "CodeParent": "JNK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNL",
+          "CodeDescription": "Schools and pre-schools",
+          "CodeNotes": "See also: VSK",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JNLA",
+          "CodeDescription": "Pre-school and kindergarten",
+          "CodeParent": "JNL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNLB",
+          "CodeDescription": "Primary and middle schools",
+          "CodeNotes": "Class here: elementary, preparatory, infant and junior schools",
+          "CodeParent": "JNL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNLC",
+          "CodeDescription": "Secondary schools",
+          "CodeNotes": "Class here: senior and high schools",
+          "CodeParent": "JNL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNLP",
+          "CodeDescription": "Independent schools, private education",
+          "CodeParent": "JNL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNLR",
+          "CodeDescription": "Faith (religious) schools",
+          "CodeParent": "JNL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNLV",
+          "CodeDescription": "Outdoor schools / education",
+          "CodeNotes": "Class here: adventure education, outdoor learning, forest schools. Use for: organized learning that takes place in the outdoors",
+          "CodeParent": "JNL",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JNM",
+          "CodeDescription": "Higher education, tertiary education",
+          "CodeNotes": "Class here: all advanced and post-secondary education, including institutions offering vocational, technical or non-degree courses as well as universities, See also: VSK",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNMT",
+          "CodeDescription": "Teacher training",
+          "CodeParent": "JNM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNP",
+          "CodeDescription": "Adult education, continuous learning",
+          "CodeNotes": "Class here: lifelong learning, popular education, community education, ‘Bildung’. Use for: works about education or training of adult learners that are neither university nor vocational training, See also: VSL VSN",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNQ",
+          "CodeDescription": "Open learning, distance education",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNR",
+          "CodeDescription": "Careers guidance",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNRD",
+          "CodeDescription": "Work experience, placements and internships",
+          "CodeParent": "JNR",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JNRV",
+          "CodeDescription": "Industrial or vocational training",
+          "CodeNotes": "Use for: works on industrial / vocational training, professional development and education as a subject. Prefer: YPW* or other subjects codes, such as T*, and the appropriate 4CP* Qualifiers for teaching material and coursework for teaching vocational subjects",
+          "CodeParent": "JNR",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNS",
+          "CodeDescription": "Teaching of students with different educational needs",
+          "CodeNotes": "Class here: special education, mixed classes of students with different cultural or linguistic backgrounds etc",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNSC",
+          "CodeDescription": "Teaching of students with physical impairments or disabilities",
+          "CodeNotes": "Use for: teaching of students with impaired hearing or vision, or any physical condition giving rise to specific educational needs. Use with: 5PM* codes as appropriate",
+          "CodeParent": "JNS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNSG",
+          "CodeDescription": "Teaching of students with learning difficulties",
+          "CodeNotes": "Use for: teaching of students with dyslexia, dyscalculia, autism, behavioural difficulties, or any mental impairment giving rise to specific educational needs",
+          "CodeParent": "JNS",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JNSL",
+          "CodeDescription": "Teaching of students with social, emotional or behavioural difficulties",
+          "CodeParent": "JNS",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JNSP",
+          "CodeDescription": "Teaching of gifted or talented students",
+          "CodeParent": "JNS",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JNSR",
+          "CodeDescription": "Remedial education and teaching",
+          "CodeNotes": "Class here: developmental education, compensatory education",
+          "CodeParent": "JNS",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JNSV",
+          "CodeDescription": "Education of bilingual or multilingual students",
+          "CodeNotes": "Class here: works looking at the theory of education through a secondary language, education in mixed language classes, works about the education of pupils who speak another language, but where the language teaching itself is not the focus of the education",
+          "CodeParent": "JNS",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JNT",
+          "CodeDescription": "Teaching skills and techniques",
+          "CodeNotes": "Class here: classroom control, coaching and mentoring, lesson planning, tutoring",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNTC",
+          "CodeDescription": "Competence development",
+          "CodeNotes": "Class here: competency-based education and training, competency learning. Use for: works that examine the practical approach to developing competencies and concrete skills in education or training",
+          "CodeParent": "JNT",
+          "IssueNumber": "1.2",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNTP",
+          "CodeDescription": "Project-based learning",
+          "CodeParent": "JNT",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JNTR",
+          "CodeDescription": "Play-based learning",
+          "CodeNotes": "Use for: works that examine the theories or approaches to using play and activity to teach and learn",
+          "CodeParent": "JNT",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JNTS",
+          "CodeDescription": "Teaching of reading, writing and numeracy",
+          "CodeNotes": "Use for: works about the theory or different approaches of learning or teaching the basic skills, See also: CJCR CJCW JNF YPCA2",
+          "CodeParent": "JNT",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JNU",
+          "CodeDescription": "Teaching of a specific subject",
+          "CodeNotes": "Use with: the code for the subject taught, using YP* Educational codes where appropriate",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JNUM",
+          "CodeDescription": "Teachers’ classroom resources and material",
+          "CodeNotes": "Class here: interactive resources, teachers’ editions of textbooks, learning materials and teaching aids etc. Use with: the code for the subject taught, using YP* Educational codes where appropriate",
+          "CodeParent": "JNU",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNUM1",
+          "CodeDescription": "Lesson plans",
+          "CodeNotes": "Use with: the code for the subject taught, using YP* Educational codes where appropriate",
+          "CodeParent": "JNUM",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JNV",
+          "CodeDescription": "Educational equipment and technology, computer-aided learning (CAL)",
+          "CodeNotes": "Class here: media technology in classroom, Learning management systems. Use for: works about using digital technologies in class and for learning",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JNW",
+          "CodeDescription": "Extra-curricular activities",
+          "CodeNotes": "Class here: field trips, school trips, sporting and community activities, events, performances, playtime/mealtime, after-school activities, school clubs etc",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JNZ",
+          "CodeDescription": "Study and learning skills: general",
+          "CodeParent": "JN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JP",
+          "CodeDescription": "Politics and government",
+          "CodeParent": "J",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPA",
+          "CodeDescription": "Political science and theory",
+          "CodeNotes": "See also: QDTS",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPB",
+          "CodeDescription": "Comparative politics",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPF",
+          "CodeDescription": "Political ideologies and movements",
+          "CodeNotes": "Use for: works on different parts of the political spectrum",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPFA",
+          "CodeDescription": "Green politics / ecopolitics / environmentalism",
+          "CodeNotes": "Class here: green movements, activist organisations, See also: RNA RNB",
+          "CodeParent": "JPF",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JPFB",
+          "CodeDescription": "Anarchism",
+          "CodeParent": "JPF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPFC",
+          "CodeDescription": "Far-left political ideologies and movements",
+          "CodeNotes": "Class here: Communism, Marxism-Leninism, Trotskyism, Maoism, extreme-left, radical left, hard left, democratic socialists, populist socialists, social populists, left-wing populism",
+          "CodeParent": "JPF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPFF",
+          "CodeDescription": "Left-of-centre democratic ideologies",
+          "CodeNotes": "Class here: social democracy, socialism",
+          "CodeParent": "JPF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPFK",
+          "CodeDescription": "Centrist democratic ideologies",
+          "CodeNotes": "Class here: Communitarianism, Centrism",
+          "CodeParent": "JPF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPFM",
+          "CodeDescription": "Right-of-centre democratic ideologies",
+          "CodeNotes": "Class here: Conservatism, Christian Democracy",
+          "CodeParent": "JPF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPFN",
+          "CodeDescription": "Nationalism",
+          "CodeNotes": "Class here: ethnic nationalism, language nationalism, nationalist or nativist movements. Use for: works that examine any form of nationalism. Use with: NH* codes for history titles and INTEREST 5* Qualifiers as appropriate",
+          "CodeParent": "JPF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPFN2",
+          "CodeDescription": "Pan-nationalism",
+          "CodeNotes": "Use for: works about specific forms of nationalism that look beyond traditional boundaries of basic national identities, in order to create a ‘higher’ pan-national (all-inclusive) identity, based on various common denominators. Use with: NH* codes for history titles and INTEREST 5* Qualifiers as appropriate",
+          "CodeParent": "JPFN",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JPFQ",
+          "CodeDescription": "Far-right political ideologies and movements",
+          "CodeNotes": "Class here: Fascism and neo-fascism, Nazism and neo-Nazism, ultra-nationalism, Extreme right, alt right, hard right, radical right, Palaeoconservatism, nativism, right-wing populism",
+          "CodeParent": "JPF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPFR",
+          "CodeDescription": "Religious and theocratic ideologies",
+          "CodeNotes": "Class here: Theocracy. Use for: works about religion used as a source of political ideology, identity or action. Use with: QR* codes to indicate particular religion as appropriate",
+          "CodeParent": "JPF",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPH",
+          "CodeDescription": "Political structure and processes",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPHC",
+          "CodeDescription": "Constitution: government and the state",
+          "CodeParent": "JPH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPHF",
+          "CodeDescription": "Elections and referenda",
+          "CodeNotes": "Class here: psephology, voting systems, suffrage. Use for: works both on the study of, as well as on specific elections or referendums, studies of voting behaviour, types of electoral and voting practices",
+          "CodeParent": "JPH",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPHL",
+          "CodeDescription": "Political leaders and leadership",
+          "CodeParent": "JPH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPHV",
+          "CodeDescription": "Political structures: democracy",
+          "CodeParent": "JPH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPHX",
+          "CodeDescription": "Political structures: totalitarianism and dictatorship",
+          "CodeNotes": "Class here: authoritarianism, tyranny, absolutism",
+          "CodeParent": "JPH",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPL",
+          "CodeDescription": "Political parties and party platforms",
+          "CodeNotes": "Use for: works that look at individual or multiple political parties, or examine particular party platforms or programs. Use with: JPF* codes for works about a particular party on the political spectrum",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPN",
+          "CodeDescription": "Indigenous people: governance and politics",
+          "CodeNotes": "Class here: works on policies, government",
+          "CodeParent": "JP",
+          "IssueNumber": "1.3",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPP",
+          "CodeDescription": "Public administration",
+          "CodeNotes": "See also: KNV",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPQ",
+          "CodeDescription": "Central / national / federal government",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPQB",
+          "CodeDescription": "Central / national / federal government policies",
+          "CodeNotes": "See also: KCP",
+          "CodeParent": "JPQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPR",
+          "CodeDescription": "Regional, state and other local government",
+          "CodeNotes": "Use for: any government within a country that is not municipal or city based (these are within scope of JPT), See also: JPT",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JPRB",
+          "CodeDescription": "Regional, state and other local government policies",
+          "CodeNotes": "Use for: policy of any government within a country that is not municipal or city based (these are within scope of JPT), See also: JPT",
+          "CodeParent": "JPR",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JPS",
+          "CodeDescription": "International relations",
+          "CodeNotes": "Class here: International politics, foreign policy",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPSD",
+          "CodeDescription": "Diplomacy",
+          "CodeParent": "JPS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPSF",
+          "CodeDescription": "Arms negotiation and control",
+          "CodeNotes": "Class here: arms race, arms stockpiling, disarmament",
+          "CodeParent": "JPS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPSH",
+          "CodeDescription": "Espionage and secret services",
+          "CodeNotes": "Class here: surveillance, counterintelligence, spying, military intelligence",
+          "CodeParent": "JPS",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JPSL",
+          "CodeDescription": "Geopolitics",
+          "CodeParent": "JPS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPSN",
+          "CodeDescription": "International institutions",
+          "CodeNotes": "Class here: UN and UN agencies, EU institutions, intergovernmental and non-governmental organizations (IGOs and NGOs) etc. Use with: 1QF* values from PLACE 1* Qualifiers as appropriate, See also: GTV",
+          "CodeParent": "JPS",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JPT",
+          "CodeDescription": "Municipal / city government",
+          "CodeNotes": "Use for: city regions (e.g. Greater London or the Bay Area), metropolitan areas or key subdivisions of urban areas such as boroughs",
+          "CodeParent": "JP",
+          "IssueNumber": "1.2",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JPV",
+          "CodeDescription": "Political control and freedoms",
+          "CodeNotes": "Class here: political propaganda",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPVC",
+          "CodeDescription": "Civics and citizenship",
+          "CodeParent": "JPV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPVH",
+          "CodeDescription": "Human rights, civil rights",
+          "CodeNotes": "Class here: freedom of speech, of information, of worship; land rights, etc, See also: LNDC",
+          "CodeParent": "JPV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPVR",
+          "CodeDescription": "Political oppression and persecution",
+          "CodeParent": "JPV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPVR1",
+          "CodeDescription": "Political abduction, imprisonment, ‘Disappearance’ and assassination",
+          "CodeNotes": "Use for: works about forced abduction, imprisonment, or unlawful killings used as a form of political oppression, the ‘Disappeared’ in various societies, the search for the people or their bodies, etc. Use with: LBBR or LNDC for legal aspects or NH* codes for historical material",
+          "CodeParent": "JPVR",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JPW",
+          "CodeDescription": "Political activism",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPWA",
+          "CodeDescription": "Public opinion and polls",
+          "CodeParent": "JPW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPWC",
+          "CodeDescription": "Political campaigning and advertising",
+          "CodeParent": "JPW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPWG",
+          "CodeDescription": "Pressure groups, protest movements and non-violent action",
+          "CodeNotes": "Class here: lobbying, demonstrations, civil disobedience, peaceful resistance, active defiance of authority",
+          "CodeParent": "JPW",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JPWH",
+          "CodeDescription": "Non-governmental organizations (NGOs)",
+          "CodeParent": "JPW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPWL",
+          "CodeDescription": "Terrorism, armed struggle",
+          "CodeNotes": "Class here: political assassination, See also: JWCG",
+          "CodeParent": "JPW",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "JPWQ",
+          "CodeDescription": "Revolutionary groups and movements",
+          "CodeNotes": "See also: NHTV",
+          "CodeParent": "JPW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPWS",
+          "CodeDescription": "Armed conflict",
+          "CodeNotes": "Class here: uprisings, armed skirmishes, flashpoints, outbreaks of organized violence short of full-scale war",
+          "CodeParent": "JPW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JPZ",
+          "CodeDescription": "Corruption in politics, government and society",
+          "CodeNotes": "Class here: government and public sector corruption, judicial and police corruption, bribery and corruption as part of everyday life in society etc, See also: JKV*",
+          "CodeParent": "JP",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JW",
+          "CodeDescription": "Warfare and defence",
+          "CodeParent": "J",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWA",
+          "CodeDescription": "Theory of warfare and military science",
+          "CodeNotes": "Use with: RG* codes for Military Geography topics",
+          "CodeParent": "JW",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JWC",
+          "CodeDescription": "Military forces and sectors",
+          "CodeParent": "JW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWCD",
+          "CodeDescription": "Land forces and warfare",
+          "CodeParent": "JWC",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWCG",
+          "CodeDescription": "Irregular or guerrilla forces and warfare",
+          "CodeNotes": "Class here: armed resistance movements, insurgents, foreign fighters. Use for: works about non-regular military forces who fight for political, economic, ideological or religious reasons. Use with: NHW* codes as appropriate and PLACE 1* and TIME PERIOD 3* Qualifiers as appropriate",
+          "CodeParent": "JWC",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JWCK",
+          "CodeDescription": "Naval forces and warfare",
+          "CodeNotes": "See also: NHTM",
+          "CodeParent": "JWC",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWCM",
+          "CodeDescription": "Air forces and warfare",
+          "CodeParent": "JWC",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWCS",
+          "CodeDescription": "Special and elite forces",
+          "CodeParent": "JWC",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWJ",
+          "CodeDescription": "Military administration",
+          "CodeNotes": "Class here: personnel issues, discipline, procurement, funding etc",
+          "CodeParent": "JW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWK",
+          "CodeDescription": "Military and defence strategy",
+          "CodeNotes": "Class here: military tactics, civil defence, national security policies",
+          "CodeParent": "JW",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JWKF",
+          "CodeDescription": "Military intelligence",
+          "CodeParent": "JWK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWL",
+          "CodeDescription": "War and defence operations",
+          "CodeNotes": "See also: NHW*",
+          "CodeParent": "JW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWLF",
+          "CodeDescription": "Battles and campaigns",
+          "CodeParent": "JWL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWLP",
+          "CodeDescription": "Peacekeeping operations",
+          "CodeNotes": "See also: GTU",
+          "CodeParent": "JWL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWM",
+          "CodeDescription": "Weapons and equipment",
+          "CodeNotes": "Use with: code from JWC* to indicate sector, See also: WCK",
+          "CodeParent": "JW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWMC",
+          "CodeDescription": "Chemical and biological weapons",
+          "CodeParent": "JWM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWMN",
+          "CodeDescription": "Nuclear weapons",
+          "CodeParent": "JWM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWMV",
+          "CodeDescription": "Military vehicles",
+          "CodeNotes": "Use with: code from JWC* to indicate sector and WG* as appropriate",
+          "CodeParent": "JWM",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "JWT",
+          "CodeDescription": "Military institutions",
+          "CodeNotes": "Class here: regiments, memorials, war cemeteries, rolls of honour, command centres, defence institutions, military academies, organisations for veterans or ex-combatants etc, See also: AMG WCK",
+          "CodeParent": "JW",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JWTU",
+          "CodeDescription": "Military uniforms / insignia",
+          "CodeParent": "JWT",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "JWX",
+          "CodeDescription": "Other warfare and defence issues",
+          "CodeNotes": "See also: TTM",
+          "CodeParent": "JW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWXF",
+          "CodeDescription": "Arms trade",
+          "CodeNotes": "Class here: Armaments, weapons industry",
+          "CodeParent": "JWX",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JWXJ",
+          "CodeDescription": "Non-combatants",
+          "CodeNotes": "Class here: civilians, journalists, aid workers, combat medics, military chaplains, neutrals etc",
+          "CodeParent": "JWX",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "JWXK",
+          "CodeDescription": "War crimes",
+          "CodeNotes": "See also: NHTZ NHTZ1",
+          "CodeParent": "JWX",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWXN",
+          "CodeDescription": "Mercenaries",
+          "CodeNotes": "Class here: soldiers of fortune, private armies and private defence companies. Use for: works about soldiers who fight for money or personal gain",
+          "CodeParent": "JWX",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "JWXR",
+          "CodeDescription": "Prisoners of war",
+          "CodeParent": "JWX",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWXT",
+          "CodeDescription": "Mutiny",
+          "CodeParent": "JWX",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWXV",
+          "CodeDescription": "Military veterans",
+          "CodeParent": "JWX",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "JWXZ",
+          "CodeDescription": "Combat / defence skills and manuals",
+          "CodeParent": "JWX",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "P",
+          "CodeDescription": "Mathematics and Science",
+          "CodeNotes": "Use all P* codes for: mostly academic, technical and specialist titles and some general adult works. Qualifiers are mostly not required with P* codes. DO NOT USE: code ‘P’ itself, but select specific categories from section P*. Prefer: WN* codes for general interest adult titles where appropriate",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "PB",
+          "CodeDescription": "Mathematics",
+          "CodeParent": "P",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBB",
+          "CodeDescription": "Philosophy of mathematics",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBC",
+          "CodeDescription": "Mathematical foundations",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBCD",
+          "CodeDescription": "Mathematical logic",
+          "CodeParent": "PBC",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBCH",
+          "CodeDescription": "Set theory",
+          "CodeParent": "PBC",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBCN",
+          "CodeDescription": "Number systems",
+          "CodeParent": "PBC",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBD",
+          "CodeDescription": "Discrete mathematics",
+          "CodeNotes": "Class here: finite mathematics",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBF",
+          "CodeDescription": "Algebra",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBG",
+          "CodeDescription": "Groups and group theory",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBH",
+          "CodeDescription": "Number theory",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBJ",
+          "CodeDescription": "Pre-calculus",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBK",
+          "CodeDescription": "Calculus and mathematical analysis",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBKA",
+          "CodeDescription": "Calculus",
+          "CodeParent": "PBK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBKB",
+          "CodeDescription": "Real analysis, real variables",
+          "CodeParent": "PBK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBKD",
+          "CodeDescription": "Complex analysis, complex variables",
+          "CodeParent": "PBK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBKF",
+          "CodeDescription": "Functional analysis and transforms",
+          "CodeNotes": "Class here: Fourier, Hilbert, Laplace, Z transforms",
+          "CodeParent": "PBK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBKJ",
+          "CodeDescription": "Differential calculus and equations",
+          "CodeParent": "PBK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBKL",
+          "CodeDescription": "Integral calculus and equations",
+          "CodeParent": "PBK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBKQ",
+          "CodeDescription": "Calculus of variations",
+          "CodeParent": "PBK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBKS",
+          "CodeDescription": "Numerical analysis",
+          "CodeParent": "PBK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBM",
+          "CodeDescription": "Geometry",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBMB",
+          "CodeDescription": "Trigonometry",
+          "CodeParent": "PBM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBMH",
+          "CodeDescription": "Euclidean geometry",
+          "CodeParent": "PBM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBML",
+          "CodeDescription": "Non-Euclidean geometry",
+          "CodeParent": "PBM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBMP",
+          "CodeDescription": "Differential and Riemannian geometry",
+          "CodeParent": "PBM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBMS",
+          "CodeDescription": "Analytic geometry",
+          "CodeParent": "PBM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBMW",
+          "CodeDescription": "Algebraic geometry",
+          "CodeParent": "PBM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBMX",
+          "CodeDescription": "Fractal geometry",
+          "CodeParent": "PBM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBP",
+          "CodeDescription": "Topology",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBPD",
+          "CodeDescription": "Algebraic topology",
+          "CodeParent": "PBP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBPH",
+          "CodeDescription": "Analytic topology",
+          "CodeParent": "PBP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBT",
+          "CodeDescription": "Probability and statistics",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBTB",
+          "CodeDescription": "Bayesian inference",
+          "CodeParent": "PBT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBU",
+          "CodeDescription": "Optimization",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBUD",
+          "CodeDescription": "Game theory",
+          "CodeParent": "PBU",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBUH",
+          "CodeDescription": "Linear programming",
+          "CodeParent": "PBU",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBV",
+          "CodeDescription": "Combinatorics and graph theory",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBW",
+          "CodeDescription": "Applied mathematics",
+          "CodeNotes": "See also: PDE TBJ UYAM",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBWH",
+          "CodeDescription": "Mathematical modelling",
+          "CodeParent": "PBW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBWL",
+          "CodeDescription": "Stochastics",
+          "CodeParent": "PBW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBWR",
+          "CodeDescription": "Nonlinear science",
+          "CodeParent": "PBW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBWS",
+          "CodeDescription": "Chaos theory",
+          "CodeParent": "PBW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBWX",
+          "CodeDescription": "Fuzzy set theory",
+          "CodeParent": "PBW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PBX",
+          "CodeDescription": "History of mathematics",
+          "CodeParent": "PB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PD",
+          "CodeDescription": "Science: general issues",
+          "CodeNotes": "Use for: the natural sciences as well as general works on the different branches of science. Use with: other subject codes as appropriate",
+          "CodeParent": "P",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "PDA",
+          "CodeDescription": "Philosophy of science",
+          "CodeParent": "PD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PDC",
+          "CodeDescription": "Scientific nomenclature and classification",
+          "CodeParent": "PD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PDD",
+          "CodeDescription": "Scientific standards, measurement etc",
+          "CodeParent": "PD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PDE",
+          "CodeDescription": "Maths for scientists",
+          "CodeNotes": "See also: PBW",
+          "CodeParent": "PD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PDG",
+          "CodeDescription": "Industrial applications of scientific research and technological innovation",
+          "CodeParent": "PD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PDJ",
+          "CodeDescription": "Regulation of science and experimentation",
+          "CodeNotes": "Use for: works on regulation, whether legal or directed by other bodies or authorities, aimed at scientists and practitioners. Use with: other P* code indicating area of science where appropriate, See also: LNDB8",
+          "CodeParent": "PD",
+          "IssueNumber": "1.1",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "PDK",
+          "CodeDescription": "Science funding and policy",
+          "CodeParent": "PD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PDM",
+          "CodeDescription": "Scientific research",
+          "CodeParent": "PD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PDN",
+          "CodeDescription": "Scientific equipment, experiments and techniques",
+          "CodeParent": "PD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PDR",
+          "CodeDescription": "Impact of science and technology on society",
+          "CodeNotes": "Use for: works that look that at impact that any science or technology has had or could have on society. Use with: NHTB for social history or other P* or T* or J* codes as appropriate, See also: JBFV5 UBJ",
+          "CodeParent": "PD",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "PDT",
+          "CodeDescription": "Nanosciences",
+          "CodeNotes": "Use for: nanomaterials, nanomaterial synthesis, nanoparticle chemistry, See also: TBN",
+          "CodeParent": "PD",
+          "IssueNumber": "1.1",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "PDX",
+          "CodeDescription": "History of science",
+          "CodeNotes": "See also: TBX",
+          "CodeParent": "PD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PDZ",
+          "CodeDescription": "Popular science",
+          "CodeNotes": "Use with: other P* code indicating area of science given popular treatment, See also: WNW* WNX",
+          "CodeParent": "PD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PDZM",
+          "CodeDescription": "Popular and recreational mathematics",
+          "CodeNotes": "Use with: other PB* codes indicating the area of maths given popular treatment as appropriate",
+          "CodeParent": "PDZ",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "PG",
+          "CodeDescription": "Astronomy, space and time",
+          "CodeNotes": "See also: TTD*",
+          "CodeParent": "P",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PGC",
+          "CodeDescription": "Theoretical and mathematical astronomy",
+          "CodeNotes": "See also: PHVB",
+          "CodeParent": "PG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PGG",
+          "CodeDescription": "Astronomical observation: observatories, equipment and methods",
+          "CodeNotes": "See also: WNX",
+          "CodeParent": "PG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PGK",
+          "CodeDescription": "Cosmology and the universe",
+          "CodeParent": "PG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PGM",
+          "CodeDescription": "Galaxies and stars",
+          "CodeNotes": "Class here: exoplanets, extrasolar planets",
+          "CodeParent": "PG",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "PGS",
+          "CodeDescription": "Solar system: the Sun and planets",
+          "CodeNotes": "Class here: the Moons of the different planets",
+          "CodeParent": "PG",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "PGT",
+          "CodeDescription": "Astronomical charts and atlases",
+          "CodeParent": "PG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PGZ",
+          "CodeDescription": "Time (chronology), time systems and standards",
+          "CodeParent": "PG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PH",
+          "CodeDescription": "Physics",
+          "CodeParent": "P",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHD",
+          "CodeDescription": "Classical mechanics",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHDB",
+          "CodeDescription": "Elementary mechanics",
+          "CodeParent": "PHD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHDD",
+          "CodeDescription": "Analytical mechanics",
+          "CodeParent": "PHD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHDF",
+          "CodeDescription": "Physics: Fluid mechanics",
+          "CodeParent": "PHD",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "PHDS",
+          "CodeDescription": "Wave mechanics (vibration and acoustics)",
+          "CodeParent": "PHD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHDT",
+          "CodeDescription": "Dynamics and statics",
+          "CodeParent": "PHD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHDV",
+          "CodeDescription": "Gravity",
+          "CodeParent": "PHD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHDY",
+          "CodeDescription": "Energy",
+          "CodeParent": "PHD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHF",
+          "CodeDescription": "Materials / States of matter",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHFB",
+          "CodeDescription": "Low temperature physics",
+          "CodeParent": "PHF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHFC",
+          "CodeDescription": "Condensed matter physics (liquid state and solid state physics)",
+          "CodeParent": "PHF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHFC1",
+          "CodeDescription": "Soft matter physics",
+          "CodeParent": "PHFC",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHFC2",
+          "CodeDescription": "Mesoscopic physics",
+          "CodeParent": "PHFC",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHFG",
+          "CodeDescription": "Physics of gases",
+          "CodeParent": "PHF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHFP",
+          "CodeDescription": "Plasma physics",
+          "CodeParent": "PHF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHH",
+          "CodeDescription": "Thermodynamics and heat",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHJ",
+          "CodeDescription": "Optical physics",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHJL",
+          "CodeDescription": "Laser physics",
+          "CodeParent": "PHJ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHK",
+          "CodeDescription": "Electricity, electromagnetism and magnetism",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHM",
+          "CodeDescription": "Atomic and molecular physics",
+          "CodeNotes": "Class here: Microphysics",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "PHN",
+          "CodeDescription": "Nuclear physics",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHP",
+          "CodeDescription": "Particle and high-energy physics",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHQ",
+          "CodeDescription": "Quantum physics (quantum mechanics and quantum field theory)",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHR",
+          "CodeDescription": "Relativity physics",
+          "CodeNotes": "Class here: physics of time",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "PHS",
+          "CodeDescription": "Statistical physics",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHU",
+          "CodeDescription": "Mathematical physics",
+          "CodeNotes": "Class here: computational physics",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "PHV",
+          "CodeDescription": "Applied physics",
+          "CodeParent": "PH",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHVB",
+          "CodeDescription": "Astrophysics",
+          "CodeParent": "PHV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHVD",
+          "CodeDescription": "Medical physics",
+          "CodeParent": "PHV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHVG",
+          "CodeDescription": "Geophysics",
+          "CodeNotes": "See also: RBG*",
+          "CodeParent": "PHV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHVJ",
+          "CodeDescription": "Atmospheric physics",
+          "CodeParent": "PHV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHVN",
+          "CodeDescription": "Biophysics",
+          "CodeParent": "PHV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHVQ",
+          "CodeDescription": "Chemical physics",
+          "CodeParent": "PHV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PHVS",
+          "CodeDescription": "Cryogenics",
+          "CodeParent": "PHV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PN",
+          "CodeDescription": "Chemistry",
+          "CodeNotes": "See also: TDC TQ*",
+          "CodeParent": "P",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNB",
+          "CodeDescription": "Medicinal chemistry",
+          "CodeNotes": "Class here: drug discovery and design, drug development, See also: MKG",
+          "CodeParent": "PN",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PNC",
+          "CodeDescription": "Environmental chemistry",
+          "CodeNotes": "Class here: atmospheric, soil and water chemistry, chemical pollution and remediation. Use TQ* for practical applications of environmental chemistry, See also: RBGK TQ*",
+          "CodeParent": "PN",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PND",
+          "CodeDescription": "Food chemistry",
+          "CodeNotes": "Class here: food science. Prefer: TDCT2 for more practical applications, See also: TDCT2",
+          "CodeParent": "PN",
+          "IssueNumber": "1.1",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "PNF",
+          "CodeDescription": "Analytical chemistry",
+          "CodeParent": "PN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNFC",
+          "CodeDescription": "Chromatography",
+          "CodeParent": "PNF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNFR",
+          "CodeDescription": "Magnetic resonance",
+          "CodeParent": "PNF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNFS",
+          "CodeDescription": "Spectrum analysis, spectrochemistry, mass spectrometry",
+          "CodeParent": "PNF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNK",
+          "CodeDescription": "Inorganic chemistry",
+          "CodeParent": "PN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNN",
+          "CodeDescription": "Organic chemistry",
+          "CodeParent": "PN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNND",
+          "CodeDescription": "Organometallic chemistry",
+          "CodeParent": "PNN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNNP",
+          "CodeDescription": "Polymer chemistry",
+          "CodeParent": "PNN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNR",
+          "CodeDescription": "Physical chemistry",
+          "CodeParent": "PN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNRA",
+          "CodeDescription": "Computational chemistry",
+          "CodeParent": "PNR",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PNRC",
+          "CodeDescription": "Colloid chemistry",
+          "CodeParent": "PNR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNRD",
+          "CodeDescription": "Catalysis",
+          "CodeParent": "PNR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNRD1",
+          "CodeDescription": "Bio-catalysis",
+          "CodeParent": "PNRD",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PNRE",
+          "CodeDescription": "Experimental chemistry",
+          "CodeParent": "PNR",
+          "IssueNumber": "1.2"
+        },
+        {
+          "CodeValue": "PNRH",
+          "CodeDescription": "Electrochemistry and magnetochemistry",
+          "CodeNotes": "Class here: battery chemistry",
+          "CodeParent": "PNR",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "PNRL",
+          "CodeDescription": "Nuclear chemistry, photochemistry and radiation",
+          "CodeParent": "PNR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNRP",
+          "CodeDescription": "Quantum and theoretical chemistry",
+          "CodeParent": "PNR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNRR",
+          "CodeDescription": "Physical organic chemistry",
+          "CodeParent": "PNR",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PNRS",
+          "CodeDescription": "Solid state chemistry",
+          "CodeParent": "PNR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNRW",
+          "CodeDescription": "Thermochemistry and chemical thermodynamics",
+          "CodeParent": "PNR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNRX",
+          "CodeDescription": "Surface chemistry and adsorption",
+          "CodeParent": "PNR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNT",
+          "CodeDescription": "Crystallography",
+          "CodeParent": "PN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PNV",
+          "CodeDescription": "Chemistry of minerals, crystals and gems",
+          "CodeParent": "PN",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "PS",
+          "CodeDescription": "Biology, life sciences",
+          "CodeNotes": "Use all PS* codes for: academic, specialist and professional level works. Prefer: WN* codes for natural history etc for the general reader, See also: WN*",
+          "CodeParent": "P",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSA",
+          "CodeDescription": "Life sciences: general issues",
+          "CodeParent": "PS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSAB",
+          "CodeDescription": "Taxonomy and systematics",
+          "CodeParent": "PSA",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSAD",
+          "CodeDescription": "Bioethics",
+          "CodeNotes": "Use for: issues surrounding the ethics of practices typically connected to new developments in biology and medicine, See also: JBFV MBDC",
+          "CodeParent": "PSA",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "PSAF",
+          "CodeDescription": "Ecological science, the Biosphere",
+          "CodeNotes": "Use for: comprehensive scientific, objective and descriptive works on living organisms and their relationship with their environment, See also: RNC",
+          "CodeParent": "PSA",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSAG",
+          "CodeDescription": "Xenobiotics",
+          "CodeParent": "PSA",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSAJ",
+          "CodeDescription": "Evolution",
+          "CodeParent": "PSA",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSAK",
+          "CodeDescription": "Genetics (non-medical)",
+          "CodeNotes": "Class here: DNA, Genome etc, See also: MFN TCBG",
+          "CodeParent": "PSA",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSAN",
+          "CodeDescription": "Neurosciences",
+          "CodeNotes": "Prefer: MKMT6 “Cognitive behavioural therapy” for therapeutic aspects of neuroscience, See also: GTK MKJ MKMT6",
+          "CodeParent": "PSA",
+          "IssueNumber": "1.0",
+          "Modified": "1.1"
+        },
+        {
+          "CodeValue": "PSAN1",
+          "CodeDescription": "Cellular and molecular neuroscience",
+          "CodeParent": "PSAN",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PSAN2",
+          "CodeDescription": "Developmental neuroscience",
+          "CodeParent": "PSAN",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PSAN3",
+          "CodeDescription": "Neuroimaging and neuroanatomy",
+          "CodeParent": "PSAN",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PSAN4",
+          "CodeDescription": "Sensory and motor systems",
+          "CodeParent": "PSAN",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PSAN5",
+          "CodeDescription": "Cognitive and behavioural neuroscience",
+          "CodeParent": "PSAN",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PSAX",
+          "CodeDescription": "Computational biology / bioinformatics",
+          "CodeNotes": "See also: MBF",
+          "CodeParent": "PSA",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSB",
+          "CodeDescription": "Biochemistry",
+          "CodeNotes": "Class here: biochemical immunology, non-medical toxicology, enzymology, lipids etc",
+          "CodeParent": "PS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSC",
+          "CodeDescription": "Developmental biology",
+          "CodeParent": "PS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSD",
+          "CodeDescription": "Molecular biology",
+          "CodeParent": "PS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSE",
+          "CodeDescription": "Chemical biology",
+          "CodeNotes": "Class here: synthetic biology",
+          "CodeParent": "PS",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PSF",
+          "CodeDescription": "Cellular biology (cytology)",
+          "CodeParent": "PS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSG",
+          "CodeDescription": "Microbiology (non-medical)",
+          "CodeNotes": "Class here: protozoa, non-medical bacteriology, parasitology, virology etc",
+          "CodeParent": "PS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSGN",
+          "CodeDescription": "Protozoa",
+          "CodeParent": "PSG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSP",
+          "CodeDescription": "Hydrobiology",
+          "CodeNotes": "See also: RBK",
+          "CodeParent": "PS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSPA",
+          "CodeDescription": "Phycology (algae and seaweed)",
+          "CodeParent": "PSP",
+          "IssueNumber": "1.2"
+        },
+        {
+          "CodeValue": "PSPF",
+          "CodeDescription": "Freshwater biology",
+          "CodeNotes": "See also: RBKF",
+          "CodeParent": "PSP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSPM",
+          "CodeDescription": "Marine biology",
+          "CodeNotes": "See also: RBKC",
+          "CodeParent": "PSP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSQ",
+          "CodeDescription": "Mycology, fungi",
+          "CodeNotes": "Class here: lichen",
+          "CodeParent": "PS",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "PST",
+          "CodeDescription": "Botany and plant sciences",
+          "CodeParent": "PS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSTB",
+          "CodeDescription": "Plant biology",
+          "CodeParent": "PST",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "PSTH",
+          "CodeDescription": "Flowering plants (angiosperms)",
+          "CodeParent": "PST",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "PSTJ",
+          "CodeDescription": "Conifers and gymnosperms",
+          "CodeNotes": "Class here: cycads, Ginkgo and gnetophytes",
+          "CodeParent": "PST",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "PSTM",
+          "CodeDescription": "Ferns, mosses and liverworts",
+          "CodeNotes": "Class here: clubmosses, hornworts",
+          "CodeParent": "PST",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "PSV",
+          "CodeDescription": "Zoology and animal sciences",
+          "CodeNotes": "See also: WNC",
+          "CodeParent": "PS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSVA",
+          "CodeDescription": "Zoology: invertebrates",
+          "CodeNotes": "Class here: annelids (worms), Myriapoda, echinoderms (starfish, sea urchins), jellyfish, See also: WNCN",
+          "CodeParent": "PSV",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "PSVA2",
+          "CodeDescription": "Insects (entomology)",
+          "CodeNotes": "Class here: caterpillars, butterflies and moths",
+          "CodeParent": "PSVA",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "PSVA4",
+          "CodeDescription": "Crustaceans (carcinology)",
+          "CodeNotes": "Class here: crabs, lobsters, crayfish, shrimp, krill, woodlice, barnacles etc",
+          "CodeParent": "PSVA",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "PSVA6",
+          "CodeDescription": "Molluscs (malacology)",
+          "CodeNotes": "Class here: cephalopod, octopus, squid, gastropods, snails, slugs, bivalves, clams, oysters, cockles, mussels, scallops etc",
+          "CodeParent": "PSVA",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "PSVA8",
+          "CodeDescription": "Arachnids (arachnology)",
+          "CodeNotes": "Class here: spiders, scorpions, ticks, mites etc",
+          "CodeParent": "PSVA",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "PSVC",
+          "CodeDescription": "Zoology: fishes (ichthyology)",
+          "CodeNotes": "See also: WNCS",
+          "CodeParent": "PSV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSVF",
+          "CodeDescription": "Zoology: amphibians and reptiles (herpetology)",
+          "CodeNotes": "See also: WNCK",
+          "CodeParent": "PSV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSVJ",
+          "CodeDescription": "Zoology: birds (ornithology)",
+          "CodeNotes": "See also: WNCB",
+          "CodeParent": "PSV",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSVM",
+          "CodeDescription": "Zoology: mammals (mammalogy)",
+          "CodeNotes": "See also: WNCF",
+          "CodeParent": "PSV",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "PSVM1",
+          "CodeDescription": "Zoology: marsupials and monotremes",
+          "CodeParent": "PSVM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSVM2",
+          "CodeDescription": "Zoology: marine and freshwater mammals",
+          "CodeNotes": "Class here: Cetacea and Sirenia – whales, dolphins, sea cows, etc. Use for: aquatic and semiaquatic mammals, See also: PSVM WNCS",
+          "CodeParent": "PSVM",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "PSVM3",
+          "CodeDescription": "Zoology: primates (primatology)",
+          "CodeNotes": "Class here: lemurs, monkeys, apes",
+          "CodeParent": "PSVM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSVP",
+          "CodeDescription": "Ethology and animal behaviour",
+          "CodeParent": "PSV",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "PSX",
+          "CodeDescription": "Human biology",
+          "CodeParent": "PS",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "PSXE",
+          "CodeDescription": "Evolutionary anthropology",
+          "CodeNotes": "Class here: early man, palaeoanthropology, Hominidae, human forebears and archaic humans",
+          "CodeParent": "PSX",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "U",
+          "CodeDescription": "Computing and Information Technology",
+          "CodeNotes": "Use all U* codes for: academic, technical, specialist and some general adult titles. DO NOT USE: code ‘U’ itself, but select specific categories from section U*. Use all U* codes with: other subject categories and qualifiers where appropriate, in particular EDUCATIONAL PURPOSE 4* qualifiers for vocational educational titles",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "UB",
+          "CodeDescription": "Information technology: general topics",
+          "CodeParent": "U",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "UBB",
+          "CodeDescription": "History of Computing, digital and information technologies",
+          "CodeParent": "UB",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "UBH",
+          "CodeDescription": "Digital and information technologies: Health and safety aspects",
+          "CodeParent": "UB",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "UBJ",
+          "CodeDescription": "Digital and information technologies: social and ethical aspects",
+          "CodeNotes": "Class here: Digital divide, Industry 4.0, Internet of things, smart cities, social technology, smart homes, intelligent environments, etc. Use for: works that look at issues or impacts on society, linked to the uses or changes to society associated with computer, digital or information technologies, the internet, See also: JBFV5 PDR",
+          "CodeParent": "UB",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "UBL",
+          "CodeDescription": "Digital and information technologies: Legal aspects",
+          "CodeNotes": "Class here: legal aspects of open source, copyleft licensing, spamming, net neutrality, internet censorship, all legal aspects of the digital dissemination of information and software. Use for: works that discuss various legal aspects of IT, See also: LNQ",
+          "CodeParent": "UB",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "UBM",
+          "CodeDescription": "Maker and hacker culture",
+          "CodeNotes": "Use for: general works on technology-led subcultures",
+          "CodeParent": "UB",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "UBW",
+          "CodeDescription": "Internet: general works",
+          "CodeParent": "UB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UD",
+          "CodeDescription": "Digital Lifestyle and online world: consumer and user guides",
+          "CodeNotes": "Use for: general works, usually aimed at a basic, introductory, non-specialist level or guides to help users make informed choices about digital technologies, See also: ATN",
+          "CodeParent": "U",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "UDA",
+          "CodeDescription": "Personal organization software and apps",
+          "CodeParent": "UD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDB",
+          "CodeDescription": "Internet guides and online services",
+          "CodeNotes": "See also: ATN",
+          "CodeParent": "UD",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "UDBA",
+          "CodeDescription": "Online shopping and auctions",
+          "CodeParent": "UDB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDBD",
+          "CodeDescription": "Internet searching",
+          "CodeParent": "UDB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDBG",
+          "CodeDescription": "Internet gambling",
+          "CodeParent": "UDB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDBM",
+          "CodeDescription": "Online finance and investing",
+          "CodeParent": "UDB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDBR",
+          "CodeDescription": "Internet browsers",
+          "CodeParent": "UDB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDBS",
+          "CodeDescription": "Social media / social networking",
+          "CodeParent": "UDB",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "UDBV",
+          "CodeDescription": "Virtual worlds",
+          "CodeParent": "UDB",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDD",
+          "CodeDescription": "Online safety and behaviour",
+          "CodeParent": "UD",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "UDF",
+          "CodeDescription": "Email: consumer / user guides",
+          "CodeParent": "UD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDH",
+          "CodeDescription": "E-book readers, tablets and other portable devices: consumer / user guides",
+          "CodeParent": "UD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDM",
+          "CodeDescription": "Digital music and audio: consumer / user guides",
+          "CodeNotes": "See also: ATN",
+          "CodeParent": "UD",
+          "IssueNumber": "1.0",
+          "Modified": "1.2"
+        },
+        {
+          "CodeValue": "UDP",
+          "CodeDescription": "Digital photography: consumer / user guides",
+          "CodeNotes": "Use for: all consumer/user guides to digital photography. Use with: AJT for general and artistic aspects or UGP for technical works on editing and software such as Photoshop, See also: AJT UGP",
+          "CodeParent": "UD",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "UDQ",
+          "CodeDescription": "Digital video: consumer / user guides",
+          "CodeParent": "UD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDT",
+          "CodeDescription": "Mobile phones and smartphones: consumer / user guides",
+          "CodeParent": "UD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDV",
+          "CodeDescription": "Digital TV and media centres: consumer / user guides",
+          "CodeParent": "UD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDX",
+          "CodeDescription": "Computer games / online games: strategy guides",
+          "CodeParent": "UD",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UDY",
+          "CodeDescription": "Smart home technology and virtual assistants: consumer / guides",
+          "CodeNotes": "Use for: general practical works, usually aimed at a basic, non-specialist, level or guides to help users make informed choices about smart technologies or the internet of things",
+          "CodeParent": "UD",
+          "IssueNumber": "1.3",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "UF",
+          "CodeDescription": "Business applications",
+          "CodeParent": "U",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UFB",
+          "CodeDescription": "Integrated software packages",
+          "CodeNotes": "Class here: Microsoft Office, Microsoft Works, Lotus SmartSuite, OpenOffice etc",
+          "CodeParent": "UF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UFC",
+          "CodeDescription": "Spreadsheet software",
+          "CodeNotes": "Class here: Excel, Lotus 1-2-3, etc",
+          "CodeParent": "UF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UFD",
+          "CodeDescription": "Word processing software",
+          "CodeParent": "UF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UFG",
+          "CodeDescription": "Presentation graphics software",
+          "CodeParent": "UF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UFK",
+          "CodeDescription": "Accounting software",
+          "CodeParent": "UF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UFL",
+          "CodeDescription": "Enterprise software",
+          "CodeNotes": "Class here: content management system (CMS), customer relationship management (CRM), enterprise resource planning (ERP)",
+          "CodeParent": "UF",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "UFLS",
+          "CodeDescription": "SAP (Systems, applications and products in databases)",
+          "CodeParent": "UFL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UFM",
+          "CodeDescription": "Mathematical and statistical software",
+          "CodeParent": "UF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UFP",
+          "CodeDescription": "Project management software",
+          "CodeParent": "UF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UFS",
+          "CodeDescription": "Collaboration and group software",
+          "CodeParent": "UF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UG",
+          "CodeDescription": "Graphical and digital media applications",
+          "CodeParent": "U",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UGA",
+          "CodeDescription": "Accessibility in web and digital design",
+          "CodeNotes": "Class here: accessibility in digital products, accessible digital publishing, Electronic accessibility",
+          "CodeParent": "UG",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "UGB",
+          "CodeDescription": "Web graphics and design",
+          "CodeParent": "UG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UGC",
+          "CodeDescription": "Computer-aided design (CAD)",
+          "CodeParent": "UG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UGD",
+          "CodeDescription": "Desktop publishing",
+          "CodeParent": "UG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UGG",
+          "CodeDescription": "Computer games design",
+          "CodeNotes": "Use for: logical and narrative aspects of games design, See also: AKLF",
+          "CodeParent": "UG",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "UGK",
+          "CodeDescription": "3D graphics and modelling",
+          "CodeParent": "UG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UGL",
+          "CodeDescription": "Illustration and drawing software",
+          "CodeParent": "UG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UGM",
+          "CodeDescription": "Digital music: professional",
+          "CodeParent": "UG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UGN",
+          "CodeDescription": "Digital animation",
+          "CodeParent": "UG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UGP",
+          "CodeDescription": "Photo and image editing",
+          "CodeParent": "UG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UGV",
+          "CodeDescription": "Digital video: professional",
+          "CodeParent": "UG",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UK",
+          "CodeDescription": "Computer hardware",
+          "CodeParent": "U",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKC",
+          "CodeDescription": "Supercomputers",
+          "CodeParent": "UK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKD",
+          "CodeDescription": "Mainframes and minicomputers",
+          "CodeParent": "UK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKF",
+          "CodeDescription": "Servers",
+          "CodeParent": "UK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKG",
+          "CodeDescription": "Grid and parallel computing",
+          "CodeParent": "UK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKL",
+          "CodeDescription": "Interrelated smart technologies",
+          "CodeNotes": "Use for: technical or professional works about smart home technologies, interconnected smart devices, internet of things, systems of interrelated computing devices, mechanical and digital machines or objects",
+          "CodeParent": "UK",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "UKM",
+          "CodeDescription": "Embedded systems",
+          "CodeParent": "UK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKN",
+          "CodeDescription": "Network hardware",
+          "CodeParent": "UK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKP",
+          "CodeDescription": "Personal computers",
+          "CodeParent": "UK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKPC",
+          "CodeDescription": "PCs (IBM-compatible personal computers)",
+          "CodeParent": "UKP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKPM",
+          "CodeDescription": "Macintosh",
+          "CodeParent": "UKP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKR",
+          "CodeDescription": "Maintenance and repairs",
+          "CodeParent": "UK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKS",
+          "CodeDescription": "Storage media and peripherals",
+          "CodeParent": "UK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UKX",
+          "CodeDescription": "Utilities and tools",
+          "CodeParent": "UK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UL",
+          "CodeDescription": "Operating systems",
+          "CodeParent": "U",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "ULD",
+          "CodeDescription": "Microsoft (Windows) operating systems",
+          "CodeParent": "UL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "ULH",
+          "CodeDescription": "Apple operating systems",
+          "CodeNotes": "Class here: mac OS, use with ULP to indicate iOS, See also: ULP",
+          "CodeParent": "UL",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "ULJ",
+          "CodeDescription": "Open source and other operating systems",
+          "CodeParent": "UL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "ULJL",
+          "CodeDescription": "Linux",
+          "CodeParent": "ULJ",
+          "IssueNumber": "1.2"
+        },
+        {
+          "CodeValue": "ULP",
+          "CodeDescription": "Mobile and other handheld operating systems",
+          "CodeNotes": "Class here: Android, iOS, Blackberry, Tizen. Use for: mobile OS for phones, tablets and smart watches, See also: ULD ULH",
+          "CodeParent": "UL",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "ULQ",
+          "CodeDescription": "IBM mainframe operating systems",
+          "CodeParent": "UL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "ULR",
+          "CodeDescription": "Real time operating systems",
+          "CodeParent": "UL",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UM",
+          "CodeDescription": "Computer programming / software engineering",
+          "CodeParent": "U",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMA",
+          "CodeDescription": "Programming techniques",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMB",
+          "CodeDescription": "Algorithms and data structures",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMC",
+          "CodeDescription": "Compilers and interpreters",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMF",
+          "CodeDescription": "Agile programming",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMG",
+          "CodeDescription": "Aspect programming / AOP",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMH",
+          "CodeDescription": "Extreme programming",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMJ",
+          "CodeDescription": "Functional programming",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMK",
+          "CodeDescription": "Games development and programming",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMKB",
+          "CodeDescription": "2D graphics: games programming",
+          "CodeParent": "UMK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMKC",
+          "CodeDescription": "3D graphics: games programming",
+          "CodeParent": "UMK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMKL",
+          "CodeDescription": "Level design: games programming",
+          "CodeParent": "UMK",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UML",
+          "CodeDescription": "Graphics programming",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMN",
+          "CodeDescription": "Object-oriented programming (OOP)",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMP",
+          "CodeDescription": "Microsoft programming",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMPN",
+          "CodeDescription": ".NET programming",
+          "CodeParent": "UMP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMPW",
+          "CodeDescription": "Windows programming",
+          "CodeParent": "UMP",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMQ",
+          "CodeDescription": "Macintosh programming",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMR",
+          "CodeDescription": "Network programming",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMS",
+          "CodeDescription": "Mobile and handheld device programming / Apps programming",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMT",
+          "CodeDescription": "Database programming",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMW",
+          "CodeDescription": "Web programming",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMWS",
+          "CodeDescription": "Web services",
+          "CodeParent": "UMW",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMX",
+          "CodeDescription": "Programming and scripting languages: general",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMZ",
+          "CodeDescription": "Software Engineering",
+          "CodeParent": "UM",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMZL",
+          "CodeDescription": "Unified Modelling Language (UML)",
+          "CodeParent": "UMZ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMZT",
+          "CodeDescription": "Software testing and verification",
+          "CodeParent": "UMZ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UMZW",
+          "CodeDescription": "Object oriented software engineering",
+          "CodeParent": "UMZ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UN",
+          "CodeDescription": "Databases",
+          "CodeParent": "U",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UNA",
+          "CodeDescription": "Database design and theory",
+          "CodeParent": "UN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UNAN",
+          "CodeDescription": "NoSQL databases",
+          "CodeNotes": "Class here: Non-relational databases",
+          "CodeParent": "UNA",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "UNAR",
+          "CodeDescription": "Relational databases",
+          "CodeParent": "UNA",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UNC",
+          "CodeDescription": "Data capture and analysis",
+          "CodeNotes": "Class here: infographics, data visualisation, big data, data sets, data analytics, data science, See also: GPH",
+          "CodeParent": "UN",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "UND",
+          "CodeDescription": "Data warehousing",
+          "CodeParent": "UN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UNF",
+          "CodeDescription": "Data mining",
+          "CodeParent": "UN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UNH",
+          "CodeDescription": "Information retrieval",
+          "CodeParent": "UN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UNJ",
+          "CodeDescription": "Object-oriented databases",
+          "CodeParent": "UN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UNK",
+          "CodeDescription": "Distributed databases",
+          "CodeParent": "UN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UNKD",
+          "CodeDescription": "Distributed ledgers",
+          "CodeNotes": "Class here: blockchain, cryptocurrencies",
+          "CodeParent": "UNK",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "UNKP",
+          "CodeDescription": "Peer-to-peer networks",
+          "CodeNotes": "Class here: BitTorrent, Freenet",
+          "CodeParent": "UNK",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "UNN",
+          "CodeDescription": "Databases and the Web",
+          "CodeParent": "UN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UNS",
+          "CodeDescription": "Database software",
+          "CodeNotes": "Class here: Oracle, Access, SQL etc",
+          "CodeParent": "UN",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UP",
+          "CodeDescription": "Practical applications of information technology",
+          "CodeNotes": "Class here: maker guides, home automation etc",
+          "CodeParent": "U",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "UQ",
+          "CodeDescription": "Computer certification",
+          "CodeParent": "U",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UQF",
+          "CodeDescription": "Computer certification: Microsoft",
+          "CodeParent": "UQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UQJ",
+          "CodeDescription": "Computer certification: Cisco",
+          "CodeParent": "UQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UQL",
+          "CodeDescription": "Computer certification: ECDL",
+          "CodeParent": "UQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UQR",
+          "CodeDescription": "Computer certification: CompTIA",
+          "CodeParent": "UQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UQT",
+          "CodeDescription": "Computer certification: CLAiT",
+          "CodeParent": "UQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UR",
+          "CodeDescription": "Computer security",
+          "CodeParent": "U",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "URD",
+          "CodeDescription": "Privacy and data protection",
+          "CodeParent": "UR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "URH",
+          "CodeDescription": "Computer fraud and hacking",
+          "CodeParent": "UR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "URJ",
+          "CodeDescription": "Computer viruses, Trojans and worms",
+          "CodeParent": "UR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "URQ",
+          "CodeDescription": "Firewalls",
+          "CodeParent": "UR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "URS",
+          "CodeDescription": "Spam",
+          "CodeParent": "UR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "URW",
+          "CodeDescription": "Spyware",
+          "CodeParent": "UR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "URY",
+          "CodeDescription": "Data encryption",
+          "CodeNotes": "See also: GPJ",
+          "CodeParent": "UR",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UT",
+          "CodeDescription": "Computer networking and communications",
+          "CodeParent": "U",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTC",
+          "CodeDescription": "Cloud computing",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTD",
+          "CodeDescription": "Client–Server networking",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTE",
+          "CodeDescription": "System administration",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTF",
+          "CodeDescription": "Network management",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTFB",
+          "CodeDescription": "Computer systems back-up and data recovery",
+          "CodeParent": "UTF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTG",
+          "CodeDescription": "Grid computing",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTM",
+          "CodeDescription": "Electronic mail (email): professional",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTN",
+          "CodeDescription": "Network security",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTP",
+          "CodeDescription": "Networking standards and protocols",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTR",
+          "CodeDescription": "Distributed systems",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTS",
+          "CodeDescription": "Networking packages",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTV",
+          "CodeDescription": "Virtualization",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTW",
+          "CodeDescription": "WAP networking and applications",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UTX",
+          "CodeDescription": "EDI (electronic data interchange)",
+          "CodeParent": "UT",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UX",
+          "CodeDescription": "Applied computing",
+          "CodeNotes": "Class here: Digital research and techniques, application of artificial intelligence, ‘big data’ analysis or computational tools and methods to traditional disciplines and across society, See also: PSAX MBF",
+          "CodeParent": "U",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "UXA",
+          "CodeDescription": "Computer applications in the arts and humanities",
+          "CodeParent": "UX",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UXJ",
+          "CodeDescription": "Computer applications in the social and behavioural sciences",
+          "CodeNotes": "See also: GTK",
+          "CodeParent": "UX",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UXT",
+          "CodeDescription": "Computer applications in industry and technology",
+          "CodeParent": "UX",
+          "IssueNumber": "1.1"
+        },
+        {
+          "CodeValue": "UY",
+          "CodeDescription": "Computer science",
+          "CodeParent": "U",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYA",
+          "CodeDescription": "Mathematical theory of computation",
+          "CodeParent": "UY",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYAM",
+          "CodeDescription": "Maths for computer scientists",
+          "CodeParent": "UYA",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYD",
+          "CodeDescription": "Systems analysis and design",
+          "CodeParent": "UY",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYF",
+          "CodeDescription": "Computer architecture and logic design",
+          "CodeParent": "UY",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYFL",
+          "CodeDescription": "Assembly languages",
+          "CodeParent": "UYF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYFP",
+          "CodeDescription": "Parallel processing",
+          "CodeParent": "UYF",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYM",
+          "CodeDescription": "Computer modelling and simulation",
+          "CodeParent": "UY",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYQ",
+          "CodeDescription": "Artificial intelligence",
+          "CodeNotes": "See also: GTK",
+          "CodeParent": "UY",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYQE",
+          "CodeDescription": "Expert systems / knowledge-based systems",
+          "CodeParent": "UYQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYQL",
+          "CodeDescription": "Natural language and machine translation",
+          "CodeParent": "UYQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYQM",
+          "CodeDescription": "Machine learning",
+          "CodeNotes": "Class here: deep learning",
+          "CodeParent": "UYQ",
+          "IssueNumber": "1.0",
+          "Modified": "1.3"
+        },
+        {
+          "CodeValue": "UYQN",
+          "CodeDescription": "Neural networks and fuzzy systems",
+          "CodeParent": "UYQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYQP",
+          "CodeDescription": "Pattern recognition",
+          "CodeParent": "UYQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYQS",
+          "CodeDescription": "Speech recognition",
+          "CodeParent": "UYQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYQV",
+          "CodeDescription": "Computer vision",
+          "CodeParent": "UYQ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYS",
+          "CodeDescription": "Digital signal processing (DSP)",
+          "CodeParent": "UY",
+          "IssueNumber": "1.0",
+          "Modified": "1.4"
+        },
+        {
+          "CodeValue": "UYT",
+          "CodeDescription": "Image processing",
+          "CodeParent": "UY",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYU",
+          "CodeDescription": "Audio processing",
+          "CodeParent": "UY",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYV",
+          "CodeDescription": "Virtual reality",
+          "CodeParent": "UY",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYW",
+          "CodeDescription": "Augmented reality (AR)",
+          "CodeParent": "UY",
+          "IssueNumber": "1.3"
+        },
+        {
+          "CodeValue": "UYX",
+          "CodeDescription": "Quantum computing and information",
+          "CodeNotes": "Class here: Quantum information science",
+          "CodeParent": "UY",
+          "IssueNumber": "1.4"
+        },
+        {
+          "CodeValue": "UYZ",
+          "CodeDescription": "Human–computer interaction",
+          "CodeParent": "UY",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYZF",
+          "CodeDescription": "Information visualization",
+          "CodeParent": "UYZ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYZG",
+          "CodeDescription": "User interface design and usability",
+          "CodeParent": "UYZ",
+          "IssueNumber": "1.0"
+        },
+        {
+          "CodeValue": "UYZM",
+          "CodeDescription": "Information architecture",
+          "CodeParent": "UYZ",
+          "IssueNumber": "1.0"
+        }
+      ]
+    }
+  }
+}
