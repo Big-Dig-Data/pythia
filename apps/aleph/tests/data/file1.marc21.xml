@@ -1,0 +1,152 @@
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>     nam a22005894a 4500</marc:leader>
+  <marc:controlfield tag="001">000000009</marc:controlfield>
+  <marc:controlfield tag="003">CZ PrAS</marc:controlfield>
+  <marc:controlfield tag="005">20170307122345.0</marc:controlfield>
+  <marc:controlfield tag="008">001708s1951    xr     f      000 0 cze d</marc:controlfield>
+  <marc:datafield tag="015" ind1=" " ind2=" ">
+    <marc:subfield code="z">cnb000975605</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ABA007</marc:subfield>
+    <marc:subfield code="b">cze</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="045" ind1=" " ind2=" ">
+    <marc:subfield code="a">x9y0</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="072" ind1=" " ind2="7">
+    <marc:subfield code="a">82-9</marc:subfield>
+    <marc:subfield code="x">Liter&#225;rn&#237; kritika, v&#283;cn&#225; literatura a r&#367;zn&#233; dal&#353;&#237; &#382;&#225;nry</marc:subfield>
+    <marc:subfield code="2">Konspekt</marc:subfield>
+    <marc:subfield code="9">11</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="080" ind1=" " ind2=" ">
+    <marc:subfield code="a">821.162.3</marc:subfield>
+    <marc:subfield code="2">MRF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="080" ind1=" " ind2=" ">
+    <marc:subfield code="a">82(091)</marc:subfield>
+    <marc:subfield code="2">MRF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="080" ind1=" " ind2=" ">
+    <marc:subfield code="a">82-95</marc:subfield>
+    <marc:subfield code="2">MRF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="080" ind1=" " ind2=" ">
+    <marc:subfield code="a">7.072.3</marc:subfield>
+    <marc:subfield code="2">MRF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="080" ind1=" " ind2=" ">
+    <marc:subfield code="a">(048.8)</marc:subfield>
+    <marc:subfield code="2">MRF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="080" ind1=" " ind2=" ">
+    <marc:subfield code="a">(049.2)</marc:subfield>
+    <marc:subfield code="2">MRF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="a">&#352;alda, F. X.</marc:subfield>
+    <marc:subfield code="q">(Franti&#353;ek Xaver),</marc:subfield>
+    <marc:subfield code="d">1867-1937</marc:subfield>
+    <marc:subfield code="7">jk01122425</marc:subfield>
+    <marc:subfield code="4">aut</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">Kritick&#233; projevy.</marc:subfield>
+    <marc:subfield code="n">4,</marc:subfield>
+    <marc:subfield code="p">1898-1900 /</marc:subfield>
+    <marc:subfield code="c">F.X. &#352;alda ; [k tisku p&#345;ipravil a pozn. opat&#345;il Rudolf Havel].</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="246" ind1="3" ind2="0">
+    <marc:subfield code="a">1898-1900</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="a">Praha :</marc:subfield>
+    <marc:subfield code="b">Melantrich,</marc:subfield>
+    <marc:subfield code="c">1951.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">346 s.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="490" ind1="0" ind2=" ">
+    <marc:subfield code="a">Soubor d&#237;la F. X. &#352;aldy ;</marc:subfield>
+    <marc:subfield code="v">13</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="504" ind1=" " ind2=" ">
+    <marc:subfield code="a">Obsahuje bibl. odkazy</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">Vyd&#225;v&#225; Spole&#269;nost F.X. &#352;aldy v nakladatelstv&#237; Melantrich</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">&#269;esk&#225; literatura</marc:subfield>
+    <marc:subfield code="7">ph116858</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">liter&#225;rn&#237; historie</marc:subfield>
+    <marc:subfield code="7">ph122385</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">liter&#225;rn&#237; kritika</marc:subfield>
+    <marc:subfield code="7">ph115157</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">um&#283;leck&#225; kritika</marc:subfield>
+    <marc:subfield code="7">ph126882</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="648" ind1=" " ind2="7">
+    <marc:subfield code="a">19. stolet&#237;</marc:subfield>
+    <marc:subfield code="7">ch460557</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="648" ind1=" " ind2="4">
+    <marc:subfield code="a">1898-1900</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="655" ind1=" " ind2="7">
+    <marc:subfield code="a">studie</marc:subfield>
+    <marc:subfield code="7">fd133597</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="655" ind1=" " ind2="7">
+    <marc:subfield code="a">kritiky</marc:subfield>
+    <marc:subfield code="7">fd180917</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Havel, Rudolf,</marc:subfield>
+    <marc:subfield code="d">1911-1993</marc:subfield>
+    <marc:subfield code="4">cwt</marc:subfield>
+    <marc:subfield code="4">edt</marc:subfield>
+    <marc:subfield code="7">jk01040236</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1="4" ind2=" ">
+    <marc:subfield code="u">http://foo.bar.baz/</marc:subfield>
+    <marc:subfield code="4">N</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="990" ind1=" " ind2=" ">
+    <marc:subfield code="a">BK</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1="7" ind2=" ">
+    <marc:subfield code="b">26000606090</marc:subfield>
+    <marc:subfield code="c">C 7814</marc:subfield>
+    <marc:subfield code="d">Sv.13</marc:subfield>
+    <marc:subfield code="l">Knihovna AV &#268;R - Jen&#353;tejn</marc:subfield>
+    <marc:subfield code="r">Depozit&#225;&#345; / do 2 prac. dn&#367;</marc:subfield>
+    <marc:subfield code="n">1</marc:subfield>
+    <marc:subfield code="w">000000009</marc:subfield>
+    <marc:subfield code="u">000010</marc:subfield>
+    <marc:subfield code="k">20061106</marc:subfield>
+    <marc:subfield code="e">ABA007</marc:subfield>
+    <marc:subfield code="a">0</marc:subfield>
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="s">A</marc:subfield>
+    <marc:subfield code="g">A</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="910" ind1=" " ind2=" ">
+    <marc:subfield code="a">ABA007</marc:subfield>
+  </marc:datafield>
+</marc:record>

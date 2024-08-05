@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ONIXMessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd">
+<ONIXMessage>
+  <Header>
+    <FromCompany>bigdigdata.com</FromCompany>
+    <FromPerson>Big Boss</FromPerson>
+    <FromEmail>info@bigdigdata.com</FromEmail>
+    <ToPerson>foo.bar@baz.com</ToPerson>
+    <SentDate>20200322212633</SentDate>
+  </Header>
+  <Product>
+    <RecordReference>12345678</RecordReference>
+    <NotificationType>03</NotificationType>
+    <RecordSourceType>04</RecordSourceType>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9780787960186</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9780787960186</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>06</ProductIDType>
+      <IDValue>http://doi.org/10.5555/12345678</IDValue>
+    </ProductIdentifier>
+    <ProductForm>BB</ProductForm>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Test Book</TitleText>
+    </Title>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Foo Bar Baz</PersonName>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Jane Doe</PersonName>
+    </Contributor>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <NumberOfPages>100</NumberOfPages>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>LAW041000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>JKVF1</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>JL1</SubjectSchemeName>
+      <SubjectHeadingText>Social Science</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>JL2</SubjectSchemeName>
+      <SubjectHeadingText>Law &amp;amp; Criminology</SubjectHeadingText>
+    </Subject>
+    <AudienceCode>05</AudienceCode>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <Text>This is a test book record with random or made up values. This is update version with new date and other small changes.</Text>
+    </OtherText>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <PublisherName>Big &amp;amp; Dig Publishing</PublisherName>
+    </Publisher>
+    <PublishingStatus>04</PublishingStatus>
+    <PublicationDate>20190319</PublicationDate>
+    <SupplyDetail>
+      <SupplierName>Bookpoint</SupplierName>
+      <ProductAvailability>3</ProductAvailability>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceAmount>249.9</PriceAmount>
+        <CurrencyCode>CZK</CurrencyCode>
+      </Price>
+    </SupplyDetail>
+    <MarketRepresentation>
+      <AgentName>test@bigdigdata.com</AgentName>
+      <EmailAddress>test@bigdigdata.com</EmailAddress>
+      <MarketTerritory>WORLD</MarketTerritory>
+    </MarketRepresentation>
+  </Product>
+</ONIXMessage>

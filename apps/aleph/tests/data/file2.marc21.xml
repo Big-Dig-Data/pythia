@@ -1,0 +1,392 @@
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>      am  22     7x 4500</marc:leader>
+  <marc:controlfield tag="001">000963580</marc:controlfield>
+  <marc:controlfield tag="003">CZ PrAS</marc:controlfield>
+  <marc:controlfield tag="005">20220104121957.0</marc:controlfield>
+  <marc:controlfield tag="008">120308q15311852xr     e 25   ||| ||cze d</marc:controlfield>
+  <marc:datafield tag="022" ind1=" " ind2=" ">
+    <marc:subfield code="a">0042-4544</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="037" ind1=" " ind2=" ">
+    <marc:subfield code="a">10.1002/9780470619902</marc:subfield>
+    <marc:subfield code="b">WWWiley InterScience</marc:subfield>
+    <marc:subfield code="n">http://www3.interscience.wiley.com</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ABA007</marc:subfield>
+    <marc:subfield code="b">cze</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="043" ind1=" " ind2=" ">
+    <marc:subfield code="a">cze</marc:subfield>
+    <marc:subfield code="b">cze</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="045" ind1=" " ind2=" ">
+    <marc:subfield code="a">z&#237;tra</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="080" ind1=" " ind2=" ">
+    <marc:subfield code="a">793.32:792.82</marc:subfield>
+    <marc:subfield code="2">MRF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="080" ind1=" " ind2=" ">
+    <marc:subfield code="a">726.821</marc:subfield>
+    <marc:subfield code="2">MRF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="080" ind1=" " ind2=" ">
+    <marc:subfield code="a">rozpad v&#253;chodn&#237;ho bloku</marc:subfield>
+    <marc:subfield code="2">MRF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="100" ind1="1" ind2=" ">
+    <marc:subfield code="6">880-01</marc:subfield>
+    <marc:subfield code="a">Ptolemaius, Claudius</marc:subfield>
+    <marc:subfield code="d">asi 100-178.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="240" ind1=" " ind2="0">
+    <marc:subfield code="a">Speculum humanae salvationis</marc:subfield>
+    <marc:subfield code="7">unn2006375265</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="0">
+    <marc:subfield code="a">$50 Pokusn&#253; z&#225;znam !!!&lt;&lt;=Nemazat, nem&#283;nit, neni&#269;it, nekoukat&gt;&gt; :</marc:subfield>
+    <marc:subfield code="b">podnazev /</marc:subfield>
+    <marc:subfield code="c">Marek.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="246" ind1=" " ind2=" ">
+    <marc:subfield code="a">&lt;&lt;The&gt;&gt; Fundamentalgesetze An Den Erscheinungen Der W&#228;rme Empirisch Begr&#252;ndet, Und Deren Bedeutun</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="264" ind1=" " ind2="0">
+    <marc:subfield code="a">Druhy nakladatel :</marc:subfield>
+    <marc:subfield code="b">nic nic,</marc:subfield>
+    <marc:subfield code="c">1900.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="264" ind1=" " ind2="1">
+    <marc:subfield code="a">Chicheddster, West Sussex, UK</marc:subfield>
+    <marc:subfield code="a">Hoboken, NJ :</marc:subfield>
+    <marc:subfield code="b">Wiley-Blackwell,</marc:subfield>
+    <marc:subfield code="c">1531c [1852].</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">1 s.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="336" ind1=" " ind2=" ">
+    <marc:subfield code="a">aa</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="338" ind1=" " ind2=" ">
+    <marc:subfield code="a">aa</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="490" ind1="0" ind2=" ">
+    <marc:subfield code="a">Edice</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="a">UJCBCL</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="520" ind1=" " ind2=" ">
+    <marc:subfield code="9">nnn</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="550" ind1=" " ind2=" ">
+    <marc:subfield code="a">O vydavateli</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">a</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="599" ind1=" " ind2=" ">
+    <marc:subfield code="a">HV 2014-1</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="562" ind1=" " ind2=" ">
+    <marc:subfield code="a">BC2013</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="593" ind1=" " ind2=" ">
+    <marc:subfield code="a">Pozn. k projektu</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Vseob. pozn.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">B&#345;ezen - duben</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="648" ind1=" " ind2="7">
+    <marc:subfield code="a">2. stolet&#237;</marc:subfield>
+    <marc:subfield code="7">ch460540</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="610" ind1="2" ind2="4">
+    <marc:subfield code="a">Rusko (federace)</marc:subfield>
+    <marc:subfield code="b">Federal'noje Sobranije</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="600" ind1="1" ind2="7">
+    <marc:subfield code="a">Barton, Mischa,</marc:subfield>
+    <marc:subfield code="d">1986-</marc:subfield>
+    <marc:subfield code="7">xx0154974</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="648" ind1=" " ind2="4">
+    <marc:subfield code="a">21. stolet&#237; p&#345;. n. l</marc:subfield>
+    <marc:subfield code="9">o</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="600" ind1="0" ind2="4">
+    <marc:subfield code="a">Pokusn&#233; z&#225;hlav&#237; 04</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="9">
+    <marc:subfield code="a">borazine</marc:subfield>
+    <marc:subfield code="2">eczenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="655" ind1=" " ind2="7">
+    <marc:subfield code="a">nizozemsk&#233; pov&#283;sti</marc:subfield>
+    <marc:subfield code="7">fd118517</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1=" " ind2="7">
+    <marc:subfield code="a">biol&#233;&#269;iva</marc:subfield>
+    <marc:subfield code="7">ph503045</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="630" ind1="0" ind2="7">
+    <marc:subfield code="a">Acta pacis Westphalicae</marc:subfield>
+    <marc:subfield code="d">(1648 &#345;&#237;jen 24.)</marc:subfield>
+    <marc:subfield code="7">unn2008449212</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">policko</marc:subfield>
+    <marc:subfield code="a">pole</marc:subfield>
+    <marc:subfield code="a">pokuspole</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="651" ind1=" " ind2="7">
+    <marc:subfield code="a">Bayerova ulice (Ro&#382;nov pod Radho&#353;t&#283;m, &#268;esko)</marc:subfield>
+    <marc:subfield code="7">ge1062982</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="611" ind1="2" ind2="7">
+    <marc:subfield code="a">International Conference on Tumor Prevention + Genetics</marc:subfield>
+    <marc:subfield code="7">xx0061585</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1=" " ind2="7">
+    <marc:subfield code="a">analytick&#225; chemie</marc:subfield>
+    <marc:subfield code="7">ph114036</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Aconcio, Jacopo,</marc:subfield>
+    <marc:subfield code="d">1492-1566</marc:subfield>
+    <marc:subfield code="4">aut</marc:subfield>
+    <marc:subfield code="7">ola2002113751</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Wei&#223;, Johann Friedrich,</marc:subfield>
+    <marc:subfield code="d">1606-1659</marc:subfield>
+    <marc:subfield code="4">aut</marc:subfield>
+    <marc:subfield code="7">mzk2009533386</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="711" ind1="2" ind2=" ">
+    <marc:subfield code="a">Rudolf II., Praha a sv&#283;t</marc:subfield>
+    <marc:subfield code="d">(1997 :</marc:subfield>
+    <marc:subfield code="c">Praha, &#268;esko)</marc:subfield>
+    <marc:subfield code="7">pna2006331902</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="773" ind1=" " ind2=" ">
+    <marc:subfield code="9">20130819</marc:subfield>
+    <marc:subfield code="t">N&#225;zev</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="770" ind1=" " ind2=" ">
+    <marc:subfield code="t">a</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="787" ind1=" " ind2=" ">
+    <marc:subfield code="a">Kundera, Milan</marc:subfield>
+    <marc:subfield code="i">eliminovat</marc:subfield>
+    <marc:subfield code="t">Pt&#225;kovina : divadeln&#237; hra</marc:subfield>
+    <marc:subfield code="b">1. vyd.</marc:subfield>
+    <marc:subfield code="d">Brno : Atlantis, 2015</marc:subfield>
+    <marc:subfield code="h">135 s.</marc:subfield>
+    <marc:subfield code="z">978-80-7108-353-5</marc:subfield>
+    <marc:subfield code="4">drama</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="880" ind1=" " ind2=" ">
+    <marc:subfield code="6">100-01</marc:subfield>
+    <marc:subfield code="a">&#1044;&#1072;&#1084;&#1083;&#1103;&#1085;&#1086;&#1074;&#1080;&#1095;, &#1044;&#1072;&#1088;&#1072;,</marc:subfield>
+    <marc:subfield code="d">asi 100-178.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1=" " ind2=" ">
+    <marc:subfield code="u">https://c1.staticflickr.com/1/11/13735337_6a6566687d_m.jpg</marc:subfield>
+    <marc:subfield code="4">N</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1=" " ind2=" ">
+    <marc:subfield code="u">http://www.vkol.cz/data/soubory/hf/bibliotheca-antiqua-2016/03-2016-trnka.pdf</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1=" " ind2=" ">
+    <marc:subfield code="u">http://www.google.cz</marc:subfield>
+    <marc:subfield code="y">Google</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="912" ind1=" " ind2=" ">
+    <marc:subfield code="a">ABA007</marc:subfield>
+    <marc:subfield code="u">https://c1.staticflickr.com/1/11/13735337_6a6566687d_m.jpg</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="914" ind1=" " ind2=" ">
+    <marc:subfield code="a">cpk0</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="944" ind1="0" ind2="1">
+    <marc:subfield code="a">a</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="944" ind1="1" ind2="3">
+    <marc:subfield code="a">b</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="964" ind1=" " ind2=" ">
+    <marc:subfield code="a">korela</marc:subfield>
+    <marc:subfield code="b">cze</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="990" ind1=" " ind2=" ">
+    <marc:subfield code="a">BK</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="994" ind1=" " ind2=" ">
+    <marc:subfield code="a">ITM</marc:subfield>
+    <marc:subfield code="l">KNA50</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1="6" ind2=" ">
+    <marc:subfield code="b">111222999</marc:subfield>
+    <marc:subfield code="c">3 POK IJ</marc:subfield>
+    <marc:subfield code="l">Knihovna AV &#268;R - N&#225;rodn&#237;</marc:subfield>
+    <marc:subfield code="n">3</marc:subfield>
+    <marc:subfield code="w">000963580</marc:subfield>
+    <marc:subfield code="u">000110</marc:subfield>
+    <marc:subfield code="m">KNAV</marc:subfield>
+    <marc:subfield code="k">00000000</marc:subfield>
+    <marc:subfield code="e">ABA007</marc:subfield>
+    <marc:subfield code="a">0</marc:subfield>
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="s">P</marc:subfield>
+    <marc:subfield code="j">KNA50</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1=" " ind2=" ">
+    <marc:subfield code="b">17978</marc:subfield>
+    <marc:subfield code="c">FF 78</marc:subfield>
+    <marc:subfield code="l">Knihovna AV &#268;R - N&#225;rodn&#237;</marc:subfield>
+    <marc:subfield code="r">Depozit&#225;&#345; / do 30 minut</marc:subfield>
+    <marc:subfield code="s">64</marc:subfield>
+    <marc:subfield code="n">5</marc:subfield>
+    <marc:subfield code="w">000963580</marc:subfield>
+    <marc:subfield code="u">001430</marc:subfield>
+    <marc:subfield code="m">KNAV</marc:subfield>
+    <marc:subfield code="k">19780201</marc:subfield>
+    <marc:subfield code="e">ABA007</marc:subfield>
+    <marc:subfield code="a">0</marc:subfield>
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="j">KNA50</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1="7" ind2=" ">
+    <marc:subfield code="b">1800</marc:subfield>
+    <marc:subfield code="l">Knihovna AV &#268;R - N&#225;rodn&#237;</marc:subfield>
+    <marc:subfield code="n">0</marc:subfield>
+    <marc:subfield code="w">000963580</marc:subfield>
+    <marc:subfield code="u">001450</marc:subfield>
+    <marc:subfield code="m">KNAV</marc:subfield>
+    <marc:subfield code="k">00000000</marc:subfield>
+    <marc:subfield code="e">ABA007</marc:subfield>
+    <marc:subfield code="a">0</marc:subfield>
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="s">A</marc:subfield>
+    <marc:subfield code="j">KNA50</marc:subfield>
+    <marc:subfield code="g">A</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1="6" ind2=" ">
+    <marc:subfield code="b">1820</marc:subfield>
+    <marc:subfield code="c">Honza</marc:subfield>
+    <marc:subfield code="l">Knihovna AV &#268;R - N&#225;rodn&#237;</marc:subfield>
+    <marc:subfield code="n">0</marc:subfield>
+    <marc:subfield code="w">000963580</marc:subfield>
+    <marc:subfield code="u">001440</marc:subfield>
+    <marc:subfield code="m">KNAV</marc:subfield>
+    <marc:subfield code="k">00000000</marc:subfield>
+    <marc:subfield code="e">ABA007</marc:subfield>
+    <marc:subfield code="a">0</marc:subfield>
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="s">P</marc:subfield>
+    <marc:subfield code="j">KNA50</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1="7" ind2=" ">
+    <marc:subfield code="b">1870</marc:subfield>
+    <marc:subfield code="c">POKUS</marc:subfield>
+    <marc:subfield code="l">Knihovna AV &#268;R - N&#225;rodn&#237;</marc:subfield>
+    <marc:subfield code="r">Hala</marc:subfield>
+    <marc:subfield code="n">4</marc:subfield>
+    <marc:subfield code="w">000963580</marc:subfield>
+    <marc:subfield code="u">001420</marc:subfield>
+    <marc:subfield code="m">KNAV</marc:subfield>
+    <marc:subfield code="k">00000000</marc:subfield>
+    <marc:subfield code="e">ABA007</marc:subfield>
+    <marc:subfield code="a">0</marc:subfield>
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="s">A</marc:subfield>
+    <marc:subfield code="j">KNA50</marc:subfield>
+    <marc:subfield code="g">A</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1="6" ind2=" ">
+    <marc:subfield code="b">2020</marc:subfield>
+    <marc:subfield code="c">FF 2020</marc:subfield>
+    <marc:subfield code="l">Knihovna AV &#268;R - N&#225;rodn&#237;</marc:subfield>
+    <marc:subfield code="r">Depozit&#225;&#345; / do 30 minut</marc:subfield>
+    <marc:subfield code="n">0</marc:subfield>
+    <marc:subfield code="w">000963580</marc:subfield>
+    <marc:subfield code="u">001460</marc:subfield>
+    <marc:subfield code="m">KNAV</marc:subfield>
+    <marc:subfield code="k">20000101</marc:subfield>
+    <marc:subfield code="e">ABA007</marc:subfield>
+    <marc:subfield code="a">0</marc:subfield>
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="s">P</marc:subfield>
+    <marc:subfield code="j">KNA50</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1="7" ind2=" ">
+    <marc:subfield code="b">2021</marc:subfield>
+    <marc:subfield code="c">FF 2021</marc:subfield>
+    <marc:subfield code="l">Knihovna AV &#268;R - N&#225;rodn&#237;</marc:subfield>
+    <marc:subfield code="r">Depozit&#225;&#345; / do 30 minut</marc:subfield>
+    <marc:subfield code="n">0</marc:subfield>
+    <marc:subfield code="w">000963580</marc:subfield>
+    <marc:subfield code="u">001470</marc:subfield>
+    <marc:subfield code="m">KNAV</marc:subfield>
+    <marc:subfield code="k">00000000</marc:subfield>
+    <marc:subfield code="e">ABA007</marc:subfield>
+    <marc:subfield code="a">0</marc:subfield>
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="s">A</marc:subfield>
+    <marc:subfield code="j">KNA50</marc:subfield>
+    <marc:subfield code="g">A</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1="6" ind2=" ">
+    <marc:subfield code="b">654321</marc:subfield>
+    <marc:subfield code="c">P 1</marc:subfield>
+    <marc:subfield code="d">Pokusn&#225; jednotka, nemazat, nesahat, nep&#367;j&#269;ovat.</marc:subfield>
+    <marc:subfield code="l">Knihovna AV &#268;R - Jen&#353;tejn</marc:subfield>
+    <marc:subfield code="r">Depozit&#225;&#345; / do 2 prac. dn&#367;</marc:subfield>
+    <marc:subfield code="n">76</marc:subfield>
+    <marc:subfield code="p">  BC2013</marc:subfield>
+    <marc:subfield code="w">000963580</marc:subfield>
+    <marc:subfield code="u">000010</marc:subfield>
+    <marc:subfield code="m">KNAVD</marc:subfield>
+    <marc:subfield code="k">20120308</marc:subfield>
+    <marc:subfield code="e">ABA007</marc:subfield>
+    <marc:subfield code="a">0</marc:subfield>
+    <marc:subfield code="a">1</marc:subfield>
+    <marc:subfield code="s">P</marc:subfield>
+    <marc:subfield code="j">KNA50</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="1">UCLP</marc:subfield>
+    <marc:subfield code="2">BF</marc:subfield>
+    <marc:subfield code="3">545 GX</marc:subfield>
+    <marc:subfield code="a">19900870</marc:subfield>
+    <marc:subfield code="f">60</marc:subfield>
+    <marc:subfield code="m">ISSBD</marc:subfield>
+    <marc:subfield code="r">20040826</marc:subfield>
+    <marc:subfield code="s">3239019900870</marc:subfield>
+    <marc:subfield code="q">Ro&#269;. 1, &#269;. 1-18 (1990)</marc:subfield>
+    <marc:subfield code="t">1</marc:subfield>
+    <marc:subfield code="u">1-18</marc:subfield>
+    <marc:subfield code="v">1990</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="072" ind1=" " ind2=" ">
+    <marc:subfield code="a">15.15.15</marc:subfield>
+    <marc:subfield code="9">15</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="910" ind1=" " ind2=" ">
+    <marc:subfield code="a">ABA007</marc:subfield>
+  </marc:datafield>
+</marc:record>

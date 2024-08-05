@@ -1,0 +1,12 @@
+[report]
+precision = 1
+show_missing = true
+skip_covered = true
+
+[run]
+omit =
+  */migrations/*
+  */management/*
+  */tests.py
+  apps/core/logic/data_sources/*
+  apps/candidates/logic/sources/sckn.py

@@ -1,0 +1,624 @@
+$$k1$$xAntropologie, etnografie$$2Konspekt
+$$k10$$xChemie. Krystalografie. Mineralogické vědy$$2Konspekt
+$$k11$$xJazyk, lingvistika, literární věda$$2Konspekt
+$$k12$$xKnihovnictví, informatika, všeobecné, referenční literatura$$2Konspekt
+$$k13$$xMatematika$$2Konspekt
+$$k14$$xLékařství$$2Konspekt
+$$k15$$xPolitické vědy (Politologie, politika, veřejná správa, vojenství)$$2Konspekt
+$$k16$$xPrávo$$2Konspekt
+$$k17$$xPsychologie$$2Konspekt
+$$k18$$xSociologie$$2Konspekt
+$$k19$$xTechnika, technologie, inženýrství$$2Konspekt
+$$k2$$xBiologické vědy$$2Konspekt
+$$k20$$xTělesná výchova a sport. Rekreace$$2Konspekt
+$$k21$$xUmění, architektura$$2Konspekt
+$$k22$$xVýchova a vzdělávání$$2Konspekt
+$$k23$$xVýpočetní technika$$2Konspekt
+$$k24$$xZemědělství$$2Konspekt
+$$k25$$xBeletrie$$2Konspekt
+$$k26$$xLiteratura pro děti a mládež$$2Konspekt
+$$k3$$xDivadlo, film, tanec$$2Konspekt
+$$k4$$xEkonomické vědy, obchod$$2Konspekt
+$$k5$$xFilozofie a náboženství$$2Konspekt
+$$k6$$xFyzika a příbuzné vědy$$2Konspekt
+$$k7$$xGeografie. Geologie. Vědy o Zemi$$2Konspekt
+$$k8$$xHistorie a pomocné historické vědy. Biografické studie$$2Konspekt
+$$k9$$xHudba$$2Konspekt
+$$a0/9-053.2$$xLiteratura pro děti a mládež (naučná)$$2Konspekt$$926
+$$a00$$xVěda. Všeobecnosti. Základy vědy a kultury. Vědecká práce$$2Konspekt$$912
+$$a003$$xSystémy psaní a písma. Sémiotika (obecně)$$2Konspekt$$911
+$$a003.05$$xPsaní a stenografie$$2Konspekt$$94
+$$a004$$xPočítačová věda. Výpočetní technika. Informační technologie$$2Konspekt$$923
+$$a004.2$$xPočítačová architektura$$2Konspekt$$923
+$$a004.3$$xPočítače. Hardware$$2Konspekt$$923
+$$a004.4/.6$$xProgramování. Software$$2Konspekt$$923
+$$a004.7$$xPočítačové sítě$$2Konspekt$$923
+$$a004.8$$xUmělá inteligence$$2Konspekt$$923
+$$a004.9$$xSpeciální počítačové metody. Počítačová grafika$$2Konspekt$$923
+$$a005$$xManagement. Řízení$$2Konspekt$$94
+$$a005.91/.92$$xVedení úřadu (kanceláře). Spisová služba$$2Konspekt$$94
+$$a005.91:82-6$$xÚřední korespondence$$2Konspekt$$94
+$$a006$$xMetrologie. Standardizace$$2Konspekt$$96
+$$a006.95$$xChronologie$$2Konspekt$$96
+$$a007$$xTeorie systémů. Automatické systémy. Informační systémy. Kybernetika$$2Konspekt$$923
+$$a01$$xBibliografie. Katalogy$$2Konspekt$$912
+$$a02$$xKnihovnictví. Informatika$$2Konspekt$$912
+$$a021$$xFunkce, význam a využívání knihoven$$2Konspekt$$912
+$$a022$$xBudovy, areály a zařízení knihoven$$2Konspekt$$912
+$$a023$$xŘízení knihoven$$2Konspekt$$912
+$$a024$$xSlužby knihoven$$2Konspekt$$912
+$$a025$$xOrganizace knihoven a knihovních fondů$$2Konspekt$$912
+$$a025.3/.4$$xKatalogizace. Selekční jazyky$$2Konspekt$$912
+$$a026$$xOdborné/speciální knihovny$$2Konspekt$$912
+$$a026/027$$xKnihovny$$2Konspekt$$912
+$$a027$$xUniverzální knihovny. Veřejné knihovny. Soukromé knihovny$$2Konspekt$$912
+$$a028$$xČtení. Četba$$2Konspekt$$912
+$$a030$$xVšeobecná příručková díla$$2Konspekt$$912
+$$a050$$xSeriálové publikace. Periodika$$2Konspekt$$912
+$$a06$$xOrganizace všeobecné povahy$$2Konspekt$$912
+$$a061.2$$xNevládní organizace a kooperace$$2Konspekt$$918
+$$a069$$xMuzea. Muzeologie. Muzejnictví. Výstavy$$2Konspekt$$912
+$$a070$$xNoviny. Tisk. Žurnalistika$$2Konspekt$$912
+$$a08$$xSouborná díla$$2Konspekt$$912
+$$a09$$xRukopisy, prvotisky, staré tisky. Vzácná a pozoruhodná díla$$2Konspekt$$912
+$$a093$$xPrvotisky$$2Konspekt$$912
+$$a094$$xStaré tisky$$2Konspekt$$912
+$$a094.5$$xTisky (19. století)$$2Konspekt$$912
+$$a095/096$$xVzácná díla$$2Konspekt$$912
+$$a101$$xFilozofie$$2Konspekt$$95
+$$a11$$xMetafyzika$$2Konspekt$$95
+$$a122/129$$xSpeciální metafyzika$$2Konspekt$$95
+$$a13$$xFilozofie ducha$$2Konspekt$$95
+$$a133$$xEzoterismus. Okultismus$$2Konspekt$$917
+$$a14$$xFilozofické systémy a hlediska$$2Konspekt$$95
+$$a14(100)"04/14"$$xStředověká filozofie$$2Konspekt$$95
+$$a14(100-11)$$xOrientální filozofie$$2Konspekt$$95
+$$a14(100-15)"15/20"$$xModerní západní filozofie$$2Konspekt$$95
+$$a14(3)$$xAntická, starověká filozofie$$2Konspekt$$95
+$$a159.9$$xPsychologie$$2Konspekt$$917
+$$a159.92$$xVývojová psychologie. Individuální psychologie$$2Konspekt$$917
+$$a159.929$$xSrovnávací psychologie$$2Konspekt$$917
+$$a159.93/.94$$xSenzorické a motorické funkce. Emoce. Vůle$$2Konspekt$$917
+$$a159.95$$xVyšší duševní procesy$$2Konspekt$$917
+$$a159.96$$xZvláštní duševní stavy a procesy. Hlubinná psychologie$$2Konspekt$$917
+$$a159.97$$xPsychopatologie$$2Konspekt$$917
+$$a159.98$$xAplikovaná psychologie$$2Konspekt$$917
+$$a16$$xLogika$$2Konspekt$$95
+$$a165$$xTeorie poznání. Epistemologie$$2Konspekt$$95
+$$a17$$xEtika. Morální filozofie$$2Konspekt$$95
+$$a2$$xNáboženství$$2Konspekt$$95
+$$a2-1$$xPřirozená teologie. Náboženská filozofie$$2Konspekt$$95
+$$a2-23/-27$$xBible. Biblistika$$2Konspekt$$95
+$$a2-74$$xNáboženské právo. Církevní právo$$2Konspekt$$95
+$$a21$$xPrehistorická a primitivní náboženství$$2Konspekt$$95
+$$a22/24$$xNáboženství Dálného východu. Indická náboženství. Hinduismus. Buddhismus$$2Konspekt$$95
+$$a25$$xNáboženství, mytologie, kulty$$2Konspekt$$95
+$$a26$$xJudaismus$$2Konspekt$$95
+$$a27$$xKřesťanství. Křesťanská církev všeobecně. Eklesiologie$$2Konspekt$$95
+$$a27-1/-2$$xKřesťanská teologie. Dogmatická teologie$$2Konspekt$$95
+$$a27-4$$xPraktická teologie. Morální teologie$$2Konspekt$$95
+$$a27-46/-48$$xPastorální teologie$$2Konspekt$$95
+$$a27-5$$xLiturgie. Křesťanské umění a symbolika. Duchovní život$$2Konspekt$$95
+$$a27-78$$xKřesťanská sdružení, spolky a organizace. Řeholní řády$$2Konspekt$$95
+$$a27-9$$xDějiny křesťanské církve$$2Konspekt$$95
+$$a271/279$$xKřesťanské církve, sekty, denominace$$2Konspekt$$95
+$$a28$$xIslám$$2Konspekt$$95
+$$a29$$xModerní duchovní hnutí$$2Konspekt$$95
+$$a3$$xSpolečenské vědy$$2Konspekt$$918
+$$a304$$xKulturní politika$$2Konspekt$$91
+$$a308$$xSociografie$$2Konspekt$$918
+$$a311$$xStatistika$$2Konspekt$$94
+$$a314$$xDemografie. Populace$$2Konspekt$$918
+$$a316$$xSociologie$$2Konspekt$$918
+$$a316.3$$xGlobální společnosti. Sociální struktura. Sociální skupiny$$2Konspekt$$918
+$$a316.33$$xEkonomická sociologie. Sociologie institucí, lidských sídel a komunit$$2Konspekt$$918
+$$a316.36$$xManželství a rodina. Sexuální vztahy$$2Konspekt$$918
+$$a316.4$$xSociální procesy$$2Konspekt$$918
+$$a316.4/.7$$xSociální interakce. Sociální komunikace$$2Konspekt$$918
+$$a316.7$$xSociologie kultury. Kulturní život$$2Konspekt$$91
+$$a316.77$$xInformační věda$$2Konspekt$$912
+$$a32$$xPolitika$$2Konspekt$$915
+$$a321$$xPolitologie$$2Konspekt$$915
+$$a322$$xPolitika a náboženství. Vztahy mezi církví a státem$$2Konspekt$$915
+$$a323$$xVnitropolitický vývoj, politický život$$2Konspekt$$915
+$$a324$$xVolby, volební kampaně, referenda$$2Konspekt$$915
+$$a325$$xMezinárodní migrace, exil, kolonizace$$2Konspekt$$915
+$$a326$$xOtroctví$$2Konspekt$$918
+$$a327$$xMezinárodní vztahy, světová politika$$2Konspekt$$915
+$$a328$$xZastupitelské orgány. Vlády. Politické systémy jednotlivých zemí$$2Konspekt$$915
+$$a329$$xPolitické strany a hnutí$$2Konspekt$$915
+$$a33$$xEkonomie$$2Konspekt$$94
+$$a330.5+338$$xNárodní hospodářství a hospodářská politika$$2Konspekt$$94
+$$a330.8$$xEkonomické teorie, doktríny, směry$$2Konspekt$$94
+$$a331$$xPráce$$2Konspekt$$94
+$$a332$$xRegionální ekonomie, regionální ekonomika$$2Konspekt$$94
+$$a334$$xFormy organizace a spolupráce v ekonomice$$2Konspekt$$94
+$$a336.1/.5$$xVeřejné finance$$2Konspekt$$94
+$$a336.7$$xFinance$$2Konspekt$$94
+$$a338.3/.4$$xHospodářská a výrobní odvětví$$2Konspekt$$94
+$$a339$$xObchod$$2Konspekt$$94
+$$a339.3$$xVnitřní obchod$$2Konspekt$$94
+$$a339.5$$xZahraniční obchod. Mezinárodní obchod$$2Konspekt$$94
+$$a339.7/.9$$xSvětová ekonomika a mezinárodní finance$$2Konspekt$$94
+$$a34$$xPrávo$$2Konspekt$$916
+$$a341$$xMezinárodní právo$$2Konspekt$$916
+$$a342$$xÚstavní právo. Správní právo$$2Konspekt$$916
+$$a342.53$$xZákonodárství$$2Konspekt$$916
+$$a343$$xTrestní právo$$2Konspekt$$916
+$$a343.8$$xVězeňství$$2Konspekt$$918
+$$a343.9$$xKriminalistika$$2Konspekt$$916
+$$a343.97$$xKriminologie$$2Konspekt$$918
+$$a344$$xVojenské trestní právo$$2Konspekt$$916
+$$a346$$xHospodářské právo$$2Konspekt$$916
+$$a347$$xSoukromé právo$$2Konspekt$$916
+$$a347.7$$xObchodní právo. Finanční právo. Právo průmyslového vlastnictví. Patentové právo. Autorské právo$$2Konspekt$$916
+$$a347.9$$xObčanské soudní řízení. Soudnictví$$2Konspekt$$916
+$$a349$$xPracovní, sociální, stavební právo. Právo životního prostředí$$2Konspekt$$916
+$$a35$$xVeřejná správa$$2Konspekt$$915
+$$a35.07$$xOrganizace a řízení veřejné správy$$2Konspekt$$915
+$$a351$$xÚkoly veřejné správy, správní opatření, legislativa$$2Konspekt$$915
+$$a352/354$$xStupně místní, oblastní a ústřední správy$$2Konspekt$$915
+$$a355/359$$xVojenství. Obrana země. Ozbrojené síly$$2Konspekt$$915
+$$a356$$xVojenská služba. Pěchota$$2Konspekt$$915
+$$a357$$xMotorizované jednotky. Jezdectvo$$2Konspekt$$915
+$$a358$$xVojenské letectvo. Dělostřelectvo. Ženijní jednotky. Technické služby armády. Chemické vojsko$$2Konspekt$$915
+$$a359$$xVojenské námořnictvo a loďstvo$$2Konspekt$$915
+$$a36$$xZajištění duševních a materiálních potřeb$$2Konspekt$$918
+$$a364$$xSociální problémy vyžadující podporu a pomoc. Sociální zabezpečení$$2Konspekt$$918
+$$a364-1/-7$$xDruhy sociální pomoci a služeb$$2Konspekt$$918
+$$a364.3$$xSociální pojištění. Zdravotní pojištění. Důchody$$2Konspekt$$918
+$$a365$$xPožadavky na bydlení a jejich uspokojování$$2Konspekt$$918
+$$a366$$xOchrana spotřebitele. Chování spotřebitele$$2Konspekt$$918
+$$a368$$xPojišťovnictví$$2Konspekt$$94
+$$a37$$xVýchova a vzdělávání$$2Konspekt$$922
+$$a37.014$$xVzdělávací a výchovná politika$$2Konspekt$$922
+$$a37.016$$xUčební osnovy. Vyučovací předměty. Učebnice$$2Konspekt$$922
+$$a37.09$$xOrganizace výuky a vzdělávání$$2Konspekt$$922
+$$a373.2/.3$$xPředškolní a primární výchova a vzdělávání$$2Konspekt$$922
+$$a373.5$$xStřední školy$$2Konspekt$$922
+$$a374$$xVýchova a vzdělávání dospělých. Mimoškolní výchova a vzdělávání$$2Konspekt$$922
+$$a376$$xVýchova a vzdělávání zvláštních skupin osob$$2Konspekt$$922
+$$a377$$xOdborné vzdělávání$$2Konspekt$$922
+$$a378$$xVysoké školy$$2Konspekt$$922
+$$a39$$xKulturní antropologie. Etnologie. Etnografie$$2Konspekt$$91
+$$a391$$xOděv, móda, ozdoby$$2Konspekt$$91
+$$a392$$xZvyky, mravy, obyčeje v soukromém životě$$2Konspekt$$91
+$$a393$$xSmrt. Pohřby. Obyčeje při úmrtí$$2Konspekt$$91
+$$a394$$xVeřejný a společenský život. Každodenní život$$2Konspekt$$91
+$$a395$$xSpolečenské chování. Etiketa$$2Konspekt$$91
+$$a398$$xFolklor. Lidové tradice$$2Konspekt$$91
+$$a5$$xPřírodní vědy. Matematické vědy$$2Konspekt$$96
+$$a502$$xŽivotní prostředí a jeho ochrana$$2Konspekt$$92
+$$a504$$xZnečištění a poškození životního prostředí$$2Konspekt$$92
+$$a51$$xMatematika$$2Konspekt$$913
+$$a510$$xObecné úvahy o matematice$$2Konspekt$$913
+$$a511$$xTeorie čísel$$2Konspekt$$913
+$$a511.1$$xAritmetika$$2Konspekt$$913
+$$a512$$xAlgebra$$2Konspekt$$913
+$$a514$$xGeometrie$$2Konspekt$$913
+$$a515.1$$xTopologie$$2Konspekt$$913
+$$a517$$xMatematická analýza$$2Konspekt$$913
+$$a519.1/.8$$xKombinatorika. Teorie grafů. Matematická statistika. Operační výzkum. Matematické modelování$$2Konspekt$$913
+$$a52$$xAstronomie$$2Konspekt$$96
+$$a520$$xAstronomické přístroje a metody$$2Konspekt$$96
+$$a521$$xTeoretická astronomie. Nebeská mechanika$$2Konspekt$$96
+$$a523.3$$xZemě$$2Konspekt$$96
+$$a523/524$$xSluneční soustava. Hvězdy. Vesmír$$2Konspekt$$96
+$$a528$$xGeodezie. Kartografie$$2Konspekt$$97
+$$a53$$xFyzika$$2Konspekt$$96
+$$a531$$xObecná mechanika. Mechanika pevných a tuhých těles$$2Konspekt$$96
+$$a532$$xMechanika tekutin obecně. Mechanika kapalin$$2Konspekt$$96
+$$a533$$xMechanika plynů. Aeromechanika. Fyzika plazmatu$$2Konspekt$$96
+$$a534$$xMechanické kmity. Akustika$$2Konspekt$$96
+$$a535$$xOptika$$2Konspekt$$96
+$$a536$$xTeplo. Termodynamika$$2Konspekt$$96
+$$a537$$xElektřina$$2Konspekt$$96
+$$a537.6/.8$$xMagnetismus. Elektromagnetismus$$2Konspekt$$96
+$$a539$$xFyzikální stavba hmoty. Jaderná fyzika. Molekulární fyzika$$2Konspekt$$96
+$$a54$$xChemie. Mineralogické vědy$$2Konspekt$$910
+$$a542$$xPraktická laboratorní chemie. Preparativní a experimentální chemie$$2Konspekt$$910
+$$a543$$xAnalytická chemie$$2Konspekt$$910
+$$a544$$xFyzikální chemie$$2Konspekt$$910
+$$a546$$xAnorganická chemie$$2Konspekt$$910
+$$a547$$xOrganická chemie$$2Konspekt$$910
+$$a548$$xKrystalografie$$2Konspekt$$910
+$$a549$$xMineralogie$$2Konspekt$$97
+$$a55$$xVědy o Zemi. Geologické vědy$$2Konspekt$$97
+$$a550$$xGeofyzika. Geochemie. Geobiologie. Užitá geologie$$2Konspekt$$97
+$$a551$$xGeologie. Meteorologie. Klimatologie$$2Konspekt$$97
+$$a552$$xPetrologie$$2Konspekt$$97
+$$a553$$xLožisková geologie$$2Konspekt$$97
+$$a556$$xHydrologie$$2Konspekt$$97
+$$a56$$xPaleontologie$$2Konspekt$$97
+$$a57$$xObecná biologie$$2Konspekt$$92
+$$a57/59$$xBiologické vědy$$2Konspekt$$92
+$$a572$$xFyzická antropologie$$2Konspekt$$91
+$$a574$$xObecná ekologie$$2Konspekt$$92
+$$a575$$xObecná genetika. Obecná cytogenetika. Evoluce$$2Konspekt$$92
+$$a576$$xBuněčná biologie. Cytologie$$2Konspekt$$92
+$$a577$$xBiochemie. Molekulární biologie. Biofyzika$$2Konspekt$$92
+$$a578$$xVirologie$$2Konspekt$$92
+$$a579$$xMikrobiologie$$2Konspekt$$92
+$$a58$$xBotanika$$2Konspekt$$92
+$$a581$$xObecná botanika$$2Konspekt$$92
+$$a59$$xZoologie$$2Konspekt$$92
+$$a591$$xObecná zoologie$$2Konspekt$$92
+$$a599.89$$xHominidae. Hominidi - lidé$$2Konspekt$$91
+$$a60$$xBiotechnologie. Genetické inženýrství$$2Konspekt$$92
+$$a61$$xLékařské vědy. Lékařství$$2Konspekt$$914
+$$a611$$xAnatomie člověka a srovnávací anatomie$$2Konspekt$$914
+$$a612$$xFyziologie člověka a srovnávací fyziologie$$2Konspekt$$914
+$$a613$$xHygiena. Lidské zdraví$$2Konspekt$$914
+$$a613.7$$xZdraví a hygiena volného času, rekreace a spánku$$2Konspekt$$920
+$$a614$$xVeřejné zdraví a hygiena$$2Konspekt$$914
+$$a614.8$$xÚrazy a jejich prevence$$2Konspekt$$914
+$$a614.84$$xPožáry. Ochrana před požáry$$2Konspekt$$914
+$$a615$$xFarmacie. Farmakologie$$2Konspekt$$914
+$$a615.8$$xFyzioterapie. Psychoterapie. Alternativní lékařství$$2Konspekt$$914
+$$a616$$xPatologie. Klinická medicína$$2Konspekt$$914
+$$a616-053.2$$xPediatrie$$2Konspekt$$914
+$$a616-053.9$$xGeriatrie$$2Konspekt$$914
+$$a616-092$$xExperimentální medicína$$2Konspekt$$914
+$$a616.31$$xStomatologie$$2Konspekt$$914
+$$a616.89$$xPsychiatrie$$2Konspekt$$914
+$$a617$$xOrtopedie. Chirurgie. Oftalmologie$$2Konspekt$$914
+$$a618$$xGynekologie. Porodnictví$$2Konspekt$$914
+$$a62$$xTechnika všeobecně$$2Konspekt$$919
+$$a620.1/.2$$xNauka o materiálu$$2Konspekt$$919
+$$a620.9$$xEnergetika$$2Konspekt$$919
+$$a621$$xStrojírenství$$2Konspekt$$919
+$$a621.039$$xJaderná technika$$2Konspekt$$919
+$$a621.3$$xElektrotechnika$$2Konspekt$$919
+$$a621.38$$xElektronika$$2Konspekt$$919
+$$a621.39$$xSdělovací technika$$2Konspekt$$919
+$$a622$$xHornictví$$2Konspekt$$919
+$$a623$$xVojenská technika$$2Konspekt$$919
+$$a624$$xStavební inženýrství$$2Konspekt$$919
+$$a625$$xPozemní komunikace. Železniční stavitelství$$2Konspekt$$919
+$$a626/627$$xVodní stavitelství. Vodní hospodářství$$2Konspekt$$919
+$$a628$$xSanitární technika. Vodárenství. Odpadové hospodářství. Světelná technika$$2Konspekt$$919
+$$a629$$xDopravní prostředky$$2Konspekt$$919
+$$a629.056.2$$xAstronomická navigace$$2Konspekt$$919
+$$a63$$xZemědělství a příbuzné oblasti vědy a techniky$$2Konspekt$$924
+$$a630$$xLesnictví$$2Konspekt$$924
+$$a631$$xZemědělství. Pedologie. Agrotechnika. Agroekologie$$2Konspekt$$924
+$$a632$$xOchrana rostlin. Fytopatologie$$2Konspekt$$924
+$$a633$$xRostlinná výroba$$2Konspekt$$924
+$$a634$$xOvocnářství$$2Konspekt$$924
+$$a635$$xZahrádkářství$$2Konspekt$$924
+$$a636$$xChov zvířat. Živočišná výroba$$2Konspekt$$924
+$$a636.09$$xVeterinární lékařství$$2Konspekt$$924
+$$a637$$xŽivočišné produkty$$2Konspekt$$924
+$$a638$$xVčelařství$$2Konspekt$$924
+$$a639.1$$xMyslivost$$2Konspekt$$924
+$$a639.2/.6$$xRybářství$$2Konspekt$$924
+$$a64$$xDomácí hospodářství$$2Konspekt$$919
+$$a64-051$$xDomácí personál$$2Konspekt$$919
+$$a640.4$$xHotelnictví. Stravování$$2Konspekt$$919
+$$a641$$xKuchařství. Potraviny. Vařená jídla$$2Konspekt$$919
+$$a642$$xČíšnictví. Servírování$$2Konspekt$$919
+$$a643$$xByt. Místnosti. Vybavení bytu$$2Konspekt$$919
+$$a644$$xBytové zařízení (sanitární)$$2Konspekt$$919
+$$a645$$xNábytek$$2Konspekt$$919
+$$a646$$xOdívání. Péče o tělo$$2Konspekt$$919
+$$a648$$xPraní. Čištění$$2Konspekt$$919
+$$a649$$xDomácí péče o děti, nemocné a hosty$$2Konspekt$$918
+$$a654$$xTelekomunikace a dálkové řízení$$2Konspekt$$94
+$$a655$$xPolygrafie. Vydavatelství a knižní obchod$$2Konspekt$$912
+$$a656$$xDoprava$$2Konspekt$$94
+$$a656.1/.5$$xPozemní doprava$$2Konspekt$$94
+$$a656.2$$xŽelezniční doprava$$2Konspekt$$94
+$$a656.6/.7$$xVodní a letecká doprava$$2Konspekt$$94
+$$a656.62$$xŘíční doprava$$2Konspekt$$94
+$$a656.8$$xPoštovní služby a správa$$2Konspekt$$94
+$$a657$$xÚčetnictví$$2Konspekt$$94
+$$a658$$xŘízení a správa podniku$$2Konspekt$$94
+$$a659$$xReklama. Public relations. Média$$2Konspekt$$94
+$$a66$$xChemický průmysl. Chemická technologie$$2Konspekt$$919
+$$a661$$xChemikálie$$2Konspekt$$919
+$$a662$$xVýbušniny. Paliva$$2Konspekt$$919
+$$a663$$xPrůmysl nápojů. Kvasný průmysl. Průmysl pochutin$$2Konspekt$$919
+$$a664$$xPotravinářský průmysl$$2Konspekt$$919
+$$a665$$xOleje. Tuky. Vosky. Pojiva. Pryskyřice$$2Konspekt$$919
+$$a666$$xSklářství. Keramika. Cement$$2Konspekt$$919
+$$a667$$xPrůmysl barviv$$2Konspekt$$919
+$$a669$$xMetalurgie$$2Konspekt$$919
+$$a67/68$$xŘemesla. Různá odvětví průmyslu$$2Konspekt$$919
+$$a671$$xPředměty z drahých kovů$$2Konspekt$$919
+$$a672$$xPředměty ze železa a oceli$$2Konspekt$$919
+$$a673$$xPředměty z neželezných kovů$$2Konspekt$$919
+$$a674$$xDřevo. Dřevařský průmysl$$2Konspekt$$919
+$$a675$$xKožedělný průmysl$$2Konspekt$$919
+$$a676$$xPapírenský průmysl$$2Konspekt$$919
+$$a677$$xTextilní průmysl$$2Konspekt$$919
+$$a678$$xPrůmysl makromolekulárních látek. Gumárenský průmysl. Průmysl plastů$$2Konspekt$$919
+$$a679$$xVýroba kabelů, provazů a lan. Průmysl kamene$$2Konspekt$$919
+$$a681$$xPřesná mechanika a přístroje$$2Konspekt$$919
+$$a681.5$$xAutomatizační a řídicí technika$$2Konspekt$$919
+$$a682$$xKovářství$$2Konspekt$$919
+$$a683$$xŽelezářství. Zámečnictví. Topná zařízení$$2Konspekt$$919
+$$a684$$xNábytkářský průmysl$$2Konspekt$$919
+$$a685$$xZpracování kůže. Obuvnictví$$2Konspekt$$919
+$$a686$$xKnihařství. Sklenářství. Kancelářské potřeby$$2Konspekt$$919
+$$a687$$xOděvní průmysl. Kosmetika. Kadeřnictví. Péče o vzhled$$2Konspekt$$919
+$$a688$$xDekorační předměty. Hračky. Galanterie$$2Konspekt$$919
+$$a69$$xStavebnictví$$2Konspekt$$919
+$$a691$$xStavební hmoty$$2Konspekt$$919
+$$a692$$xKonstrukční prvky a části staveb$$2Konspekt$$919
+$$a693$$xZednické práce$$2Konspekt$$919
+$$a694$$xDřevěné stavby. Tesařství. Truhlářství$$2Konspekt$$919
+$$a696$$xInstalace v budovách$$2Konspekt$$919
+$$a697$$xVytápění, větrání, klimatizace$$2Konspekt$$919
+$$a698$$xDokončovací práce$$2Konspekt$$919
+$$a699.8$$xOchrana budov$$2Konspekt$$919
+$$a7.01/.09$$xUmění$$2Konspekt$$921
+$$a71$$xÚzemní plánování. Urbanismus. Památková péče$$2Konspekt$$921
+$$a712$$xPlánování krajiny. Parky. Zahrady$$2Konspekt$$924
+$$a72$$xArchitektura$$2Konspekt$$921
+$$a72/76$$xVýtvarné umění$$2Konspekt$$921
+$$a73$$xSochařství, keramika, porcelán, umělecké zpracování kovů$$2Konspekt$$921
+$$a74$$xKresba. Umělecká řemesla$$2Konspekt$$921
+$$a741.52$$xKomiksy. Komiksové adaptace$$2Konspekt$$921
+$$a75$$xMalířství$$2Konspekt$$921
+$$a76$$xGrafické umění. Grafika$$2Konspekt$$921
+$$a77$$xFotografie. Fotografické postupy$$2Konspekt$$921
+$$a78$$xHudba$$2Konspekt$$99
+$$a78.01$$xMuzikologie. Dějiny hudby$$2Konspekt$$99
+$$a78.011.26$$xPopulární hudba. Populární písně. Populární taneční hudba$$2Konspekt$$99
+$$a78.03$$xHudební styly, vlivy, školy$$2Konspekt$$99
+$$a78.07$$xHudebníci, skladatelé a jiná hudební povolání$$2Konspekt$$99
+$$a780.6$$xHudební nástroje a příslušenství$$2Konspekt$$99
+$$a781$$xHudební teorie$$2Konspekt$$99
+$$a782$$xDivadelní hudba. Opera, opereta, muzikál$$2Konspekt$$99
+$$a783$$xCírkevní hudba. Duchovní hudba. Náboženská hudba$$2Konspekt$$99
+$$a784$$xVokální hudba$$2Konspekt$$99
+$$a785$$xInstrumentální hudba. Symfonická hudba. Hudba pro více nástrojů$$2Konspekt$$99
+$$a786$$xHudba pro klávesové nástroje$$2Konspekt$$99
+$$a786/789$$xHudba pro jednotlivé nástroje$$2Konspekt$$99
+$$a787$$xHudba pro strunné a smyčcové nástroje$$2Konspekt$$99
+$$a788$$xHudba pro dechové nástroje$$2Konspekt$$99
+$$a789$$xHudba pro bicí nástroje$$2Konspekt$$99
+$$a79$$xRekreace. Volný čas. Zábava. Hry. Sport$$2Konspekt$$920
+$$a791$$xFilm. Cirkus. Lidová zábava$$2Konspekt$$93
+$$a791/793$$xDivadlo, film, tanec (obecně)$$2Konspekt$$93
+$$a792$$xDivadlo. Divadelní představení$$2Konspekt$$93
+$$a793$$xSpolečenská zábava$$2Konspekt$$920
+$$a793.3$$xPohybové umění. Tanec$$2Konspekt$$93
+$$a793.8$$xZábavná magie$$2Konspekt$$93
+$$a794$$xDeskové a stolní hry, logické hry, hry zručnosti$$2Konspekt$$920
+$$a794.9$$xHry závislé na náhodě$$2Konspekt$$920
+$$a795$$xElektronické hry$$2Konspekt$$920
+$$a796$$xSport. Hry. Tělesná cvičení$$2Konspekt$$920
+$$a797$$xVodní sporty. Letecké sporty$$2Konspekt$$920
+$$a798$$xJezdectví. Sporty se zvířaty$$2Konspekt$$920
+$$a799$$xSportovní rybolov. Lovecký sport. Sportovní střelba$$2Konspekt$$920
+$$a80$$xFilologie$$2Konspekt$$911
+$$a808$$xLiterární styl. Literární činnost a technika. Efektivní využívání jazyka. Spisovatelská činnost$$2Konspekt$$911
+$$a81$$xLingvistika. Jazyky$$2Konspekt$$911
+$$a811.1/.8$$xRůzné jazyky$$2Konspekt$$911
+$$a811.11$$xGermánské jazyky$$2Konspekt$$911
+$$a811.111$$xAngličtina$$2Konspekt$$911
+$$a811.111.8$$xJazyky pidgin a kreolské jazyky$$2Konspekt$$911
+$$a811.112$$xZápadogermánské jazyky$$2Konspekt$$911
+$$a811.112.2$$xNěmčina$$2Konspekt$$911
+$$a811.113$$xSeverogermánské jazyky$$2Konspekt$$911
+$$a811.124$$xLatina$$2Konspekt$$911
+$$a811.13$$xRománské jazyky$$2Konspekt$$911
+$$a811.131$$xItalo-románské jazyky$$2Konspekt$$911
+$$a811.133$$xGalsko-románské jazyky$$2Konspekt$$911
+$$a811.133.1$$xFrancouzština$$2Konspekt$$911
+$$a811.134$$xIberorománské jazyky$$2Konspekt$$911
+$$a811.135$$xBalkánské románské jazyky$$2Konspekt$$911
+$$a811.14$$xŘečtina$$2Konspekt$$911
+$$a811.16$$xSlovanské jazyky$$2Konspekt$$911
+$$a811.161$$xVýchodoslovanské jazyky$$2Konspekt$$911
+$$a811.161.1$$xRuština$$2Konspekt$$911
+$$a811.162$$xZápadoslovanské jazyky$$2Konspekt$$911
+$$a811.162.3$$xČeština$$2Konspekt$$911
+$$a811.163$$xJihoslovanské jazyky$$2Konspekt$$911
+$$a811.17$$xBaltské jazyky$$2Konspekt$$911
+$$a811.18$$xAlbánština$$2Konspekt$$911
+$$a811.21/.22$$xIndoíránské jazyky$$2Konspekt$$911
+$$a811.34$$xVymřelé jazyky neznámé klasifikace$$2Konspekt$$911
+$$a811.35$$xKavkazské jazyky$$2Konspekt$$911
+$$a811.41$$xAfroasijské (hamitosemitské) jazyky$$2Konspekt$$911
+$$a811.51$$xUraloaltajské jazyky$$2Konspekt$$911
+$$a811.58$$xČínské jazyky$$2Konspekt$$911
+$$a811.9$$xUmělé jazyky$$2Konspekt$$911
+$$a82$$xLiteratura. Literární život$$2Konspekt$$911
+$$a82-1/-8$$xLiteratura různých forem a žánrů (o ní)$$2Konspekt$$911
+$$a82-31/-34$$xMilostná, dobrodružná, fantastická próza (o ní)$$2Konspekt$$911
+$$a82-9$$xLiterární kritika, věcná literatura a různé další žánry$$2Konspekt$$911
+$$a82-93$$xLiteratura pro děti a mládež (o ní)$$2Konspekt$$911
+$$a82-97$$xNáboženská literatura. Duchovní literatura (o ní)$$2Konspekt$$911
+$$a82.0$$xLiteratura (teorie)$$2Konspekt$$911
+$$a821$$xLiteratura v různých jazycích$$2Konspekt$$925
+$$a821-1/-8$$xLiteratura různých forem a žánrů$$2Konspekt$$925
+$$a821-31/-34$$xMilostná, dobrodružná, fantastická próza$$2Konspekt$$925
+$$a821-93$$xLiteratura pro děti a mládež (beletrie)$$2Konspekt$$926
+$$a821-93-053.4$$xLiteratura pro nejmenší děti$$2Konspekt$$926
+$$a821-97$$xNáboženská literatura. Duchovní literatura$$2Konspekt$$925
+$$a821.09$$xLiteratura v různých jazycích (o ní)$$2Konspekt$$911
+$$a821.11$$xGermánské literatury$$2Konspekt$$925
+$$a821.11.09$$xGermánské literatury (o nich)$$2Konspekt$$911
+$$a821.111$$xAnglická literatura, anglicky psaná$$2Konspekt$$925
+$$a821.111(73)$$xAmerická literatura$$2Konspekt$$925
+$$a821.111(73)-1$$xAmerická poezie$$2Konspekt$$925
+$$a821.111(73)-2$$xAmerické drama$$2Konspekt$$925
+$$a821.111(73)-3$$xAmerická próza$$2Konspekt$$925
+$$a821.111(73).09$$xAmerická literatura (o ní)$$2Konspekt$$911
+$$a821.111-1$$xAnglická poezie, anglicky psaná$$2Konspekt$$925
+$$a821.111-2$$xAnglické drama, anglicky psané$$2Konspekt$$925
+$$a821.111-3$$xAnglická próza, anglicky psaná$$2Konspekt$$925
+$$a821.111.09$$xAnglická literatura, anglicky psaná (o ní)$$2Konspekt$$911
+$$a821.112.2$$xNěmecká literatura, německy psaná$$2Konspekt$$925
+$$a821.112.2-1$$xNěmecká poezie, německy psaná$$2Konspekt$$925
+$$a821.112.2-2$$xNěmecké drama, německy psané$$2Konspekt$$925
+$$a821.112.2-3$$xNěmecká próza, německy psaná$$2Konspekt$$925
+$$a821.112.2.09$$xNěmecká literatura, německy psaná (o ní)$$2Konspekt$$911
+$$a821.124$$xLatinská literatura, latinsky psaná$$2Konspekt$$925
+$$a821.124-1$$xLatinská poezie, latinsky psaná$$2Konspekt$$925
+$$a821.124-2$$xLatinské drama, latinsky psané$$2Konspekt$$925
+$$a821.124-3$$xLatinská próza, latinsky psaná$$2Konspekt$$925
+$$a821.124.09$$xLatinská literatura, latinsky psaná (o ní)$$2Konspekt$$911
+$$a821.13$$xRománské literatury$$2Konspekt$$925
+$$a821.13.09$$xRománské literatury (o nich)$$2Konspekt$$911
+$$a821.131.1$$xItalská literatura$$2Konspekt$$925
+$$a821.131.1-1$$xItalská poezie$$2Konspekt$$925
+$$a821.131.1-2$$xItalské drama$$2Konspekt$$925
+$$a821.131.1-3$$xItalská próza$$2Konspekt$$925
+$$a821.131.1.09$$xItalská literatura (o ní)$$2Konspekt$$911
+$$a821.133.1$$xFrancouzská literatura, francouzsky psaná$$2Konspekt$$925
+$$a821.133.1-1$$xFrancouzská poezie, francouzsky psaná$$2Konspekt$$925
+$$a821.133.1-2$$xFrancouzské drama, francouzsky psané$$2Konspekt$$925
+$$a821.133.1-3$$xFrancouzská próza, francouzsky psaná$$2Konspekt$$925
+$$a821.133.1.09$$xFrancouzská literatura, francouzsky psaná (o ní)$$2Konspekt$$911
+$$a821.134.2$$xŠpanělská literatura, španělsky psaná$$2Konspekt$$925
+$$a821.134.2-1$$xŠpanělská poezie, španělsky psaná$$2Konspekt$$925
+$$a821.134.2-2$$xŠpanělské drama, španělsky psané$$2Konspekt$$925
+$$a821.134.2-3$$xŠpanělská próza, španělsky psaná$$2Konspekt$$925
+$$a821.134.2.09$$xŠpanělská literatura, španělsky psaná (o ní)$$2Konspekt$$911
+$$a821.134.3$$xPortugalská literatura, portugalsky psaná$$2Konspekt$$925
+$$a821.134.3.09$$xPortugalská literatura, portugalsky psaná (o ní)$$2Konspekt$$911
+$$a821.14$$xŘecká literatura (středověká, novodobá)$$2Konspekt$$925
+$$a821.14'02$$xŘecká antická literatura$$2Konspekt$$925
+$$a821.14'02-1$$xŘecká antická poezie$$2Konspekt$$925
+$$a821.14'02-2$$xŘecké antické drama$$2Konspekt$$925
+$$a821.14'02-3$$xŘecká antická próza$$2Konspekt$$925
+$$a821.14'02.09$$xŘecká antická literatura (o ní)$$2Konspekt$$911
+$$a821.14.09$$xŘecká literatura (středověká, novodobá) (o ní)$$2Konspekt$$911
+$$a821.16$$xSlovanské literatury$$2Konspekt$$925
+$$a821.16.09$$xSlovanské literatury (o nich)$$2Konspekt$$911
+$$a821.161$$xVýchodoslovanské literatury$$2Konspekt$$925
+$$a821.161.09$$xVýchodoslovanské literatury (o nich)$$2Konspekt$$911
+$$a821.161.1$$xRuská literatura$$2Konspekt$$925
+$$a821.161.1.09$$xRuská literatura (o ní)$$2Konspekt$$911
+$$a821.162$$xZápadoslovanské literatury$$2Konspekt$$925
+$$a821.162.09$$xZápadoslovanské literatury (o nich)$$2Konspekt$$911
+$$a821.162.1$$xPolská literatura$$2Konspekt$$925
+$$a821.162.1.09$$xPolská literatura (o ní)$$2Konspekt$$911
+$$a821.162.3$$xČeská literatura$$2Konspekt$$925
+$$a821.162.3-1$$xČeská poezie$$2Konspekt$$925
+$$a821.162.3-2$$xČeské drama$$2Konspekt$$925
+$$a821.162.3-3$$xČeská próza$$2Konspekt$$925
+$$a821.162.3.09$$xČeská literatura (o ní)$$2Konspekt$$911
+$$a821.162.4$$xSlovenská literatura$$2Konspekt$$925
+$$a821.162.4.09$$xSlovenská literatura (o ní)$$2Konspekt$$911
+$$a821.163$$xJihoslovanské literatury$$2Konspekt$$925
+$$a821.163.09$$xJihoslovanské literatury (o nich)$$2Konspekt$$911
+$$a821.163.1$$xStaroslověnská literatura$$2Konspekt$$925
+$$a821.163.1.09$$xStaroslověnská literatura (o ní)$$2Konspekt$$911
+$$a821.17$$xBaltské literatury$$2Konspekt$$925
+$$a821.17.09$$xBaltské literatury (o nich)$$2Konspekt$$911
+$$a821.41$$xAfroasijské (hamitosemitské) literatury$$2Konspekt$$925
+$$a821.41.09$$xAfroasijské (hamitosemitské) literatury (o nich)$$2Konspekt$$911
+$$a821.432$$xNigerokonžské literatury$$2Konspekt$$925
+$$a821.432.09$$xNigerokonžské literatury (o nich)$$2Konspekt$$911
+$$a821.51$$xUraloaltajské literatury$$2Konspekt$$925
+$$a821.51.09$$xUraloaltajské literatury (o nich)$$2Konspekt$$911
+$$a821.521$$xJaponská literatura$$2Konspekt$$925
+$$a821.521.09$$xJaponská literatura (o ní)$$2Konspekt$$911
+$$a821.531$$xKorejská literatura$$2Konspekt$$925
+$$a821.531.09$$xKorejská literatura (o ní)$$2Konspekt$$911
+$$a821.58$$xSino-tibetské literatury$$2Konspekt$$925
+$$a821.58.09$$xSino-tibetské literatury (o nich)$$2Konspekt$$911
+$$a821.62$$xAustronéské literatury$$2Konspekt$$925
+$$a821.62.09$$xAustronéské literatury (o nich)$$2Konspekt$$911
+$$a821.81/.82$$xLiteratury severoamerických Indiánů$$2Konspekt$$925
+$$a821.81/.82.09$$xLiteratury severoamerických Indiánů (o nich)$$2Konspekt$$911
+$$a821.873$$xLiteratury andsko-rovníkových jazyků$$2Konspekt$$925
+$$a821.873.09$$xLiteratury andsko-rovníkových jazyků (o nich)$$2Konspekt$$911
+$$a82:03$$xLiterární slovníky, encyklopedie. Konkordance$$2Konspekt$$911
+$$a82:05$$xLiterární revue, časopisy$$2Konspekt$$911
+$$a82:06$$xLiterární organizace, soutěže$$2Konspekt$$911
+$$a82:37$$xLiterární výchovné programy$$2Konspekt$$911
+$$a9$$xGeografie. Biografické studie. Dějiny$$2Konspekt$$98
+$$a902$$xArcheologie$$2Konspekt$$98
+$$a903$$xPravěk$$2Konspekt$$98
+$$a904$$xKulturní památky historického období obecně$$2Konspekt$$98
+$$a908$$xStudium oblastí a lokalit obecně$$2Konspekt$$98
+$$a908(437)$$xVlastivěda Česka a Slovenska$$2Konspekt$$98
+$$a91$$xGeografie jako věda. Výzkum. Cestování$$2Konspekt$$97
+$$a911$$xObecná geografie. Systematická geografie$$2Konspekt$$97
+$$a912$$xMapy. Atlasy. Glóby$$2Konspekt$$97
+$$a912:51$$xMatematická geografie$$2Konspekt$$97
+$$a912:904$$xStaré mapy$$2Konspekt$$97
+$$a913$$xRegionální geografie$$2Konspekt$$97
+$$a913(3)$$xGeografie starověkého světa$$2Konspekt$$97
+$$a913(4)$$xGeografie Evropy, reálie, cestování$$2Konspekt$$97
+$$a913(437)$$xGeografie Česka a Slovenska, reálie, cestování$$2Konspekt$$97
+$$a913(5)$$xGeografie Asie, reálie, cestování$$2Konspekt$$97
+$$a913(6)$$xGeografie Afriky, reálie, cestování$$2Konspekt$$97
+$$a913(7)$$xGeografie Severní Ameriky, reálie, cestování$$2Konspekt$$97
+$$a913(8)$$xGeografie Jižní Ameriky, reálie, cestování$$2Konspekt$$97
+$$a913(9)$$xGeografie Oceánie, polárních oblastí, Austrálie, atd.$$2Konspekt$$97
+$$a913:94$$xHistorická geografie$$2Konspekt$$97
+$$a929$$xBiografie$$2Konspekt$$98
+$$a929.5/.9$$xGenealogie. Heraldika. Šlechta. Vlajky$$2Konspekt$$98
+$$a93/94$$xDějiny (obecně)$$2Konspekt$$98
+$$a930$$xHistorická věda. Pomocné vědy historické. Archivnictví$$2Konspekt$$98
+$$a930.85$$xDějiny civilizace. Kulturní dějiny$$2Konspekt$$98
+$$a94(100)"04/..."$$xDějiny středověku a novověku (obecně)$$2Konspekt$$98
+$$a94(100)$$xSvětové dějiny$$2Konspekt$$98
+$$a94(3)$$xDějiny zemí starověkého světa$$2Konspekt$$98
+$$a94(4)$$xDějiny Evropy$$2Konspekt$$98
+$$a94(41)$$xDějiny britských ostrovů$$2Konspekt$$98
+$$a94(420/429)$$xDějiny Anglie a Walesu$$2Konspekt$$98
+$$a94(430/439)$$xDějiny zemí střední Evropy$$2Konspekt$$98
+$$a94(437)$$xDějiny Česka a Slovenska$$2Konspekt$$98
+$$a94(44/449.49)$$xDějiny Francie a Monaka$$2Konspekt$$98
+$$a94(450/458.2)$$xDějiny Itálie a italských ostrovů, San Marina, Vatikánu a Malty$$2Konspekt$$98
+$$a94(46)$$xDějiny států a území na Pyrenejském poloostrově$$2Konspekt$$98
+$$a94(47)$$xDějiny zemí východní Evropy$$2Konspekt$$98
+$$a94(47+57)$$xDějiny SSSR a Ruska$$2Konspekt$$98
+$$a94(48)$$xDějiny skandinávských zemí$$2Konspekt$$98
+$$a94(491.1/494.9)$$xDějiny ostatních evropských států$$2Konspekt$$98
+$$a94(495/498)$$xDějiny států a území na Balkánském poloostrově$$2Konspekt$$98
+$$a94(5)$$xDějiny Asie. Orient$$2Konspekt$$98
+$$a94(510/519)$$xDějiny Číny, Mongolska a Koreje$$2Konspekt$$98
+$$a94(520)$$xDějiny Japonska$$2Konspekt$$98
+$$a94(53)$$xDějiny států a území na Arabském poloostrově$$2Konspekt$$98
+$$a94(54)$$xDějiny států indického subkontinentu$$2Konspekt$$98
+$$a94(55)$$xDějiny Íránu$$2Konspekt$$98
+$$a94(560/569.5)$$xDějiny států západní Asie. Blízký východ$$2Konspekt$$98
+$$a94(574/575.4)$$xDějiny států Střední Asie$$2Konspekt$$98
+$$a94(581)$$xDějiny Afghánistánu$$2Konspekt$$98
+$$a94(59)$$xDějiny států jihovýchodní Asie$$2Konspekt$$98
+$$a94(6)$$xDějiny Afriky$$2Konspekt$$98
+$$a94(61)$$xDějiny Tunisu a Libye$$2Konspekt$$98
+$$a94(62)$$xDějiny Egypta a Súdánu$$2Konspekt$$98
+$$a94(63)$$xDějiny Etiopie a Eritreje$$2Konspekt$$98
+$$a94(64)$$xDějiny států a území severozápadní Afriky a přilehlých ostrovů$$2Konspekt$$98
+$$a94(65)$$xDějiny Alžírska$$2Konspekt$$98
+$$a94(66/67)$$xDějiny Afriky na jih od Sahary a států/území západní Afriky a přilehlých ostrovů$$2Konspekt$$98
+$$a94(671/679)$$xDějiny států a území střední Afriky a přilehlých ostrovů. Rovníková Afrika$$2Konspekt$$98
+$$a94(680/689.7)$$xDějiny států a území jižní Afriky$$2Konspekt$$98
+$$a94(69)$$xDějiny afrických ostrovů v Indickém a jižním Atlantském oceánu$$2Konspekt$$98
+$$a94(7)$$xDějiny Severní a Střední Ameriky$$2Konspekt$$98
+$$a94(71)$$xDějiny Kanady$$2Konspekt$$98
+$$a94(72)$$xDějiny Střední Ameriky a Karibské oblasti$$2Konspekt$$98
+$$a94(73)$$xDějiny Spojených států amerických$$2Konspekt$$98
+$$a94(734)$$xDějiny severovýchodních států USA$$2Konspekt$$98
+$$a94(735)$$xDějiny jihovýchodních států USA$$2Konspekt$$98
+$$a94(736)$$xDějiny států jižní části středních USA$$2Konspekt$$98
+$$a94(737)$$xDějiny států severní části středních USA$$2Konspekt$$98
+$$a94(738)$$xDějiny západních států USA$$2Konspekt$$98
+$$a94(739)$$xDějiny států na tichomořském pobřeží USA$$2Konspekt$$98
+$$a94(8)$$xDějiny Jižní Ameriky. Latinská Amerika$$2Konspekt$$98
+$$a94(81)$$xDějiny Brazílie$$2Konspekt$$98
+$$a94(82)$$xDějiny Argentiny$$2Konspekt$$98
+$$a94(83)$$xDějiny Chile$$2Konspekt$$98
+$$a94(84)$$xDějiny Bolívie$$2Konspekt$$98
+$$a94(85)$$xDějiny Peru$$2Konspekt$$98
+$$a94(861/866)$$xDějiny Kolumbie a Ekvádoru$$2Konspekt$$98
+$$a94(87)$$xDějiny Venezuely$$2Konspekt$$98
+$$a94(88)$$xDějiny Guayany a Surinamu$$2Konspekt$$98
+$$a94(892/899)$$xDějiny Paraguaye a Uruguaye$$2Konspekt$$98
+$$a94(9)$$xDějiny Oceánie, Austrálie, Arktidy a Antarktidy$$2Konspekt$$98
+$$a94(931)$$xDějiny Nového Zélandu$$2Konspekt$$98
+$$a94(932/935)$$xDějiny států a oblastí Melanésie$$2Konspekt$$98
+$$a94(94)$$xDějiny Austrálie$$2Konspekt$$98
+$$a94(954)$$xDějiny Papuy-Nové Guiney$$2Konspekt$$98
+$$a94(961/968)$$xDějiny států a oblastí Polynésie a Mikronésie$$2Konspekt$$98
+$$a94(97)$$xOstrovy Tichého oceánu$$2Konspekt$$98
+$$a94(98/99)$$xDějiny území Arktidy a Antarktidy$$2Konspekt$$98

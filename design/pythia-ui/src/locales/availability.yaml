@@ -1,0 +1,33 @@
+en:
+  01: Cancelled
+  09: Not yet available, postponed indefinitely
+  10: Not yet available
+  11: Awaiting stock
+  12: Not yet available, will be print-on-demand
+  20: Available
+  21: In stock
+  22: To order - Available from the supplier as a non-stock item, by special order
+  23: Print-on-demand
+  30: Temporarily unavailable
+  31: Out of stock
+  32: Reprinting
+  33: Awaiting reissue
+  34: Temporarily withdrawn from sale
+  40: Not available (reason unspecified)
+  41: Not available, replaced by new product
+  42: Not available, other format available
+  43: No longer supplied
+  44: Not available to trade, apply direct to publisher
+  45: Not sold separately
+  46: Withdrawn from sale
+  47: Remaindered
+  48: Not available, replaced by print-on-demand
+  49: Recalled for reasons of consumer safety
+  50: Not sold as set
+  51: Not available, out of print
+  52: Not available, publisher no longer sells product in this market
+  97: No recent update received
+  98: No longer receiving updates
+  99: Contact supplier
+
+cs:
